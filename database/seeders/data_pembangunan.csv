@@ -1,0 +1,1001 @@
+ID_Proyek,Tahun,Kecamatan,Sektor,Nama_Program,Anggaran_Rp,Realisasi_Rp,Progres_Persen,Status
+1,2021,Pondok Gede,Infrastruktur,Drainase Lingkungan,1125235075,2021336253,79,Disetujui
+2,2020,Pondok Melati,Infrastruktur,Pengolahan Sampah,792805756,4935547276,89,Draft
+3,2019,Mustika Jaya,Ekonomi,Puskesmas Baru,3638525253,4588749700,79,Revisi
+4,2021,Pondok Melati,Ekonomi,Pembangunan Jalan,498951860,1073391859,41,Draft
+5,2024,Bekasi Utara,Infrastruktur,Pembangunan Jalan,4469510725,407476370,67,Draft
+6,2022,Bekasi Utara,Infrastruktur,Perbaikan Jembatan,4097502448,2505696663,12,Disetujui
+7,2025,Bekasi Utara,Infrastruktur,Penerangan Jalan,2890458713,3317725154,65,Draft
+8,2024,Bekasi Timur,Pendidikan,Penerangan Jalan,276645279,2252368267,53,Disetujui
+9,2025,Medan Satria,Lingkungan,Perbaikan Jembatan,4576502370,2534841434,80,Disetujui
+10,2025,Bekasi Barat,Pendidikan,Penerangan Jalan,1466861195,1417098459,40,Disetujui
+11,2024,Pondok Melati,Lingkungan,Perbaikan Jembatan,775474032,4173614464,7,Revisi
+12,2023,Jatisampurna,Ekonomi,Revitalisasi Pasar,3314600023,2169640783,9,Revisi
+13,2019,Mustika Jaya,Ekonomi,Puskesmas Baru,2293581945,851808854,52,Draft
+14,2019,Mustika Jaya,Kesehatan,Pengolahan Sampah,664968817,3023743805,76,Revisi
+15,2023,Mustika Jaya,Kesehatan,Pengolahan Sampah,260971933,4990569920,100,Disetujui
+16,2024,Pondok Gede,Ekonomi,Pembangunan Jalan,3228999779,2855311285,87,Revisi
+17,2018,Medan Satria,Ekonomi,Revitalisasi Pasar,2250883500,3905756702,11,Draft
+18,2022,Pondok Melati,Ekonomi,Rehabilitasi Sekolah,2068846645,4667573348,33,Draft
+19,2022,Pondok Gede,Lingkungan,Puskesmas Baru,3436260987,532658849,29,Revisi
+20,2021,Rawalumbu,Lingkungan,Pengolahan Sampah,1958470716,2709671814,62,Disetujui
+21,2020,Bekasi Barat,Infrastruktur,Penerangan Jalan,2576796434,1022429212,39,Revisi
+22,2025,Jatiasih,Pendidikan,Pengolahan Sampah,1012913812,751080660,20,Revisi
+23,2018,Pondok Gede,Ekonomi,Pembangunan Jalan,2470580315,1542279876,81,Disetujui
+24,2023,Pondok Melati,Infrastruktur,Drainase Lingkungan,1192630775,4590710149,100,Disetujui
+25,2025,Mustika Jaya,Lingkungan,Revitalisasi Pasar,3857547842,3477019488,36,Disetujui
+26,2023,Rawalumbu,Kesehatan,Drainase Lingkungan,168446996,1122431937,99,Disetujui
+27,2025,Medan Satria,Kesehatan,Rehabilitasi Sekolah,630203226,1754675816,89,Draft
+28,2024,Jatiasih,Pendidikan,Pembangunan Jalan,2195467872,2502529997,32,Revisi
+29,2024,Rawalumbu,Infrastruktur,Rehabilitasi Sekolah,1086884420,2312696412,51,Disetujui
+30,2021,Bekasi Utara,Ekonomi,Revitalisasi Pasar,3340812954,756466561,69,Draft
+31,2025,Jatisampurna,Kesehatan,Penerangan Jalan,3765544963,1709113121,49,Draft
+32,2023,Bekasi Timur,Ekonomi,Puskesmas Baru,2838191983,2554852565,10,Draft
+33,2019,Mustika Jaya,Ekonomi,Rehabilitasi Sekolah,4491114062,1292802180,82,Draft
+34,2020,Pondok Melati,Pendidikan,Rehabilitasi Sekolah,2312566445,1200133211,73,Disetujui
+35,2019,Jatisampurna,Infrastruktur,Drainase Lingkungan,2241027501,838917464,30,Revisi
+36,2022,Bekasi Barat,Pendidikan,Revitalisasi Pasar,1707800398,4480244845,36,Disetujui
+37,2022,Pondok Gede,Pendidikan,Drainase Lingkungan,2213205890,4157490108,72,Draft
+38,2022,Bekasi Barat,Pendidikan,Puskesmas Baru,464880251,3504921117,70,Draft
+39,2022,Bantargebang,Infrastruktur,Drainase Lingkungan,1349956194,620507152,80,Draft
+40,2020,Bekasi Utara,Lingkungan,Perbaikan Jembatan,4341792372,71533480,45,Revisi
+41,2022,Pondok Gede,Lingkungan,Rehabilitasi Sekolah,4413717739,1508691316,22,Revisi
+42,2025,Pondok Melati,Pendidikan,Rehabilitasi Sekolah,4783729928,3326514718,5,Disetujui
+43,2020,Bekasi Selatan,Ekonomi,Rehabilitasi Sekolah,3818913581,4090807943,61,Revisi
+44,2025,Pondok Melati,Ekonomi,Rehabilitasi Sekolah,2812262467,833412745,10,Draft
+45,2023,Rawalumbu,Lingkungan,Perbaikan Jembatan,2643516211,3705262190,35,Revisi
+46,2020,Pondok Melati,Infrastruktur,Puskesmas Baru,2468515948,1279933803,73,Revisi
+47,2022,Bekasi Barat,Kesehatan,Puskesmas Baru,595575190,1406786544,89,Draft
+48,2021,Bekasi Selatan,Kesehatan,Pengolahan Sampah,306495590,1378026173,87,Revisi
+49,2021,Bekasi Selatan,Lingkungan,Pembangunan Jalan,3371143577,2349179000,92,Revisi
+50,2021,Bekasi Utara,Kesehatan,Penerangan Jalan,4019177405,3436940389,68,Disetujui
+51,2019,Bekasi Timur,Ekonomi,Drainase Lingkungan,2293812579,1272727945,36,Revisi
+52,2024,Bekasi Barat,Infrastruktur,Revitalisasi Pasar,521423563,360173408,12,Disetujui
+53,2019,Jatiasih,Infrastruktur,Rehabilitasi Sekolah,4672790017,4922684247,80,Draft
+54,2023,Bekasi Selatan,Pendidikan,Pembangunan Jalan,309287686,1271509710,49,Revisi
+55,2019,Bekasi Selatan,Pendidikan,Perbaikan Jembatan,4141665084,3808125916,48,Disetujui
+56,2023,Medan Satria,Lingkungan,Pengolahan Sampah,4039212048,4438969799,51,Draft
+57,2019,Pondok Gede,Lingkungan,Rehabilitasi Sekolah,1047949302,3013524454,97,Draft
+58,2023,Bekasi Selatan,Pendidikan,Rehabilitasi Sekolah,305642315,4704706468,26,Revisi
+59,2024,Bekasi Selatan,Ekonomi,Penerangan Jalan,2177237562,231996139,13,Draft
+60,2024,Pondok Melati,Pendidikan,Rehabilitasi Sekolah,3815290964,1195724272,24,Disetujui
+61,2025,Pondok Gede,Lingkungan,Penerangan Jalan,526527630,2254823509,7,Draft
+62,2025,Pondok Melati,Lingkungan,Perbaikan Jembatan,1483572875,1049244991,78,Revisi
+63,2019,Pondok Melati,Ekonomi,Revitalisasi Pasar,2353118505,4109694282,53,Draft
+64,2018,Bekasi Selatan,Lingkungan,Penerangan Jalan,4453653352,2690060381,54,Disetujui
+65,2018,Bekasi Selatan,Lingkungan,Drainase Lingkungan,4299762573,4545233532,14,Draft
+66,2025,Jatiasih,Lingkungan,Revitalisasi Pasar,1044668719,4371871267,40,Disetujui
+67,2020,Bekasi Barat,Kesehatan,Pembangunan Jalan,1808940712,1370734326,76,Draft
+68,2021,Rawalumbu,Kesehatan,Penerangan Jalan,4122015388,2216295195,84,Draft
+69,2020,Bekasi Selatan,Ekonomi,Pembangunan Jalan,1571501896,3750432683,62,Draft
+70,2021,Bekasi Barat,Lingkungan,Rehabilitasi Sekolah,1191234309,4384382651,92,Disetujui
+71,2022,Pondok Melati,Infrastruktur,Pengolahan Sampah,2955430227,4586350199,34,Revisi
+72,2024,Bekasi Utara,Pendidikan,Pembangunan Jalan,1700184444,666724986,19,Draft
+73,2018,Bekasi Selatan,Lingkungan,Pengolahan Sampah,1309825730,3137581457,18,Disetujui
+74,2021,Bekasi Timur,Infrastruktur,Drainase Lingkungan,4337043178,31187788,43,Draft
+75,2025,Medan Satria,Kesehatan,Rehabilitasi Sekolah,4187866268,3769589425,64,Revisi
+76,2019,Pondok Gede,Lingkungan,Perbaikan Jembatan,1139153073,3908070315,79,Draft
+77,2021,Bantargebang,Kesehatan,Revitalisasi Pasar,1455486286,1463937689,93,Revisi
+78,2021,Medan Satria,Lingkungan,Pengolahan Sampah,4792841844,3548841259,99,Disetujui
+79,2023,Rawalumbu,Pendidikan,Pengolahan Sampah,2624269046,989011275,77,Disetujui
+80,2018,Mustika Jaya,Kesehatan,Puskesmas Baru,1582655099,582358795,4,Disetujui
+81,2021,Pondok Gede,Lingkungan,Penerangan Jalan,2330316533,398626561,11,Revisi
+82,2022,Rawalumbu,Kesehatan,Drainase Lingkungan,2832180019,3676914746,67,Draft
+83,2022,Pondok Gede,Pendidikan,Pembangunan Jalan,2678719578,732784588,38,Revisi
+84,2021,Jatiasih,Lingkungan,Puskesmas Baru,69256597,4637802646,73,Draft
+85,2022,Bekasi Selatan,Ekonomi,Revitalisasi Pasar,4360145108,3264759017,77,Revisi
+86,2025,Rawalumbu,Infrastruktur,Pembangunan Jalan,4264040407,391268257,89,Revisi
+87,2023,Bekasi Timur,Kesehatan,Revitalisasi Pasar,3458874147,1417728224,49,Disetujui
+88,2024,Bekasi Selatan,Pendidikan,Pembangunan Jalan,4799741377,583848899,99,Draft
+89,2019,Bekasi Timur,Kesehatan,Pengolahan Sampah,508219572,3893705822,1,Revisi
+90,2020,Jatiasih,Pendidikan,Perbaikan Jembatan,2404601435,3634528600,61,Revisi
+91,2022,Bantargebang,Lingkungan,Pengolahan Sampah,4231833450,1041752853,40,Revisi
+92,2025,Jatiasih,Kesehatan,Rehabilitasi Sekolah,2019466518,2907789368,13,Disetujui
+93,2019,Bekasi Selatan,Lingkungan,Pembangunan Jalan,152335617,4161396546,39,Draft
+94,2024,Bekasi Utara,Pendidikan,Revitalisasi Pasar,2480994362,1786874917,23,Revisi
+95,2019,Mustika Jaya,Lingkungan,Perbaikan Jembatan,2518574883,2606569424,51,Revisi
+96,2022,Pondok Melati,Kesehatan,Perbaikan Jembatan,3699032860,1703413717,95,Revisi
+97,2024,Bekasi Selatan,Pendidikan,Pengolahan Sampah,4162824446,3106099717,91,Revisi
+98,2019,Bekasi Timur,Infrastruktur,Perbaikan Jembatan,673266783,1705166430,22,Revisi
+99,2025,Bekasi Selatan,Infrastruktur,Drainase Lingkungan,2010039436,2493338274,59,Draft
+100,2025,Pondok Melati,Lingkungan,Penerangan Jalan,955987977,4426128598,72,Disetujui
+101,2023,Rawalumbu,Infrastruktur,Rehabilitasi Sekolah,1890307537,371095527,5,Disetujui
+102,2020,Bekasi Utara,Infrastruktur,Perbaikan Jembatan,686386226,4396557787,11,Disetujui
+103,2022,Mustika Jaya,Lingkungan,Puskesmas Baru,4858720488,1117328512,95,Disetujui
+104,2023,Rawalumbu,Kesehatan,Puskesmas Baru,2043225988,2201874603,44,Draft
+105,2022,Mustika Jaya,Lingkungan,Drainase Lingkungan,875781361,4223793771,73,Draft
+106,2024,Jatisampurna,Infrastruktur,Rehabilitasi Sekolah,441218051,767382060,57,Revisi
+107,2022,Medan Satria,Lingkungan,Pengolahan Sampah,3927975463,2789471112,53,Revisi
+108,2018,Medan Satria,Pendidikan,Pengolahan Sampah,3677100982,3406447380,82,Disetujui
+109,2023,Bekasi Selatan,Kesehatan,Drainase Lingkungan,121963124,659031958,3,Disetujui
+110,2024,Pondok Melati,Pendidikan,Penerangan Jalan,1143695024,2221216581,10,Revisi
+111,2022,Rawalumbu,Pendidikan,Rehabilitasi Sekolah,479756945,269941465,87,Revisi
+112,2021,Bekasi Timur,Ekonomi,Perbaikan Jembatan,2489259985,2162628380,85,Draft
+113,2025,Jatiasih,Kesehatan,Penerangan Jalan,4026905691,4845940863,45,Revisi
+114,2019,Jatisampurna,Infrastruktur,Revitalisasi Pasar,927516197,3233348767,90,Draft
+115,2020,Mustika Jaya,Pendidikan,Revitalisasi Pasar,3817414668,4678611872,29,Draft
+116,2018,Medan Satria,Ekonomi,Revitalisasi Pasar,4047352348,1432742367,89,Revisi
+117,2018,Bantargebang,Infrastruktur,Penerangan Jalan,4794198691,1655382636,41,Draft
+118,2020,Bantargebang,Infrastruktur,Perbaikan Jembatan,1462010893,3202099262,38,Disetujui
+119,2018,Mustika Jaya,Kesehatan,Pengolahan Sampah,4940261428,2438395509,42,Revisi
+120,2021,Medan Satria,Infrastruktur,Puskesmas Baru,2122585252,25093989,84,Disetujui
+121,2020,Medan Satria,Lingkungan,Rehabilitasi Sekolah,4086556387,492589553,23,Revisi
+122,2018,Bekasi Selatan,Lingkungan,Perbaikan Jembatan,2327400808,2825373786,99,Disetujui
+123,2025,Bekasi Utara,Pendidikan,Rehabilitasi Sekolah,3442057791,2740928148,95,Revisi
+124,2023,Jatisampurna,Pendidikan,Rehabilitasi Sekolah,575708195,2455425125,97,Disetujui
+125,2024,Bekasi Barat,Pendidikan,Penerangan Jalan,1098304851,1449839108,5,Draft
+126,2024,Medan Satria,Ekonomi,Drainase Lingkungan,647929801,4720234127,84,Revisi
+127,2022,Mustika Jaya,Ekonomi,Penerangan Jalan,3438263993,3327788814,90,Draft
+128,2022,Jatiasih,Kesehatan,Drainase Lingkungan,4015328334,1986609630,37,Draft
+129,2019,Bekasi Utara,Pendidikan,Revitalisasi Pasar,4549172065,1851675846,18,Disetujui
+130,2023,Jatisampurna,Pendidikan,Penerangan Jalan,4150208157,930989745,29,Revisi
+131,2018,Bekasi Barat,Kesehatan,Pengolahan Sampah,2135975376,3955925070,21,Disetujui
+132,2019,Pondok Melati,Infrastruktur,Pembangunan Jalan,302270318,2390899489,67,Revisi
+133,2024,Jatiasih,Infrastruktur,Penerangan Jalan,2999936509,943317325,54,Disetujui
+134,2021,Bekasi Barat,Pendidikan,Perbaikan Jembatan,355540392,3780906092,57,Revisi
+135,2019,Medan Satria,Ekonomi,Revitalisasi Pasar,1342614136,530887572,13,Revisi
+136,2023,Bekasi Utara,Ekonomi,Perbaikan Jembatan,4643792048,1459188391,1,Disetujui
+137,2018,Jatisampurna,Ekonomi,Perbaikan Jembatan,761300189,4172031771,23,Revisi
+138,2022,Rawalumbu,Pendidikan,Perbaikan Jembatan,2768484728,1726278936,22,Disetujui
+139,2023,Bekasi Timur,Kesehatan,Penerangan Jalan,1120244227,472172558,45,Revisi
+140,2020,Jatisampurna,Lingkungan,Pembangunan Jalan,4469809270,2411901106,94,Disetujui
+141,2022,Pondok Gede,Kesehatan,Drainase Lingkungan,2248607807,1555713424,97,Disetujui
+142,2025,Bekasi Selatan,Kesehatan,Pengolahan Sampah,3636457918,727125909,12,Revisi
+143,2019,Bekasi Selatan,Infrastruktur,Pembangunan Jalan,1661652355,2742147166,62,Disetujui
+144,2025,Pondok Gede,Pendidikan,Pengolahan Sampah,1925155961,2869309825,55,Revisi
+145,2025,Bekasi Selatan,Lingkungan,Pembangunan Jalan,3132336965,330262631,46,Draft
+146,2024,Mustika Jaya,Infrastruktur,Pembangunan Jalan,2248864843,2393858541,68,Revisi
+147,2024,Rawalumbu,Ekonomi,Revitalisasi Pasar,1322163629,4593903641,37,Revisi
+148,2019,Jatisampurna,Kesehatan,Puskesmas Baru,4198895037,1181791486,44,Disetujui
+149,2018,Bekasi Timur,Lingkungan,Pembangunan Jalan,4402878364,1559576416,29,Draft
+150,2019,Rawalumbu,Ekonomi,Rehabilitasi Sekolah,882329236,414950271,41,Draft
+151,2019,Pondok Gede,Infrastruktur,Rehabilitasi Sekolah,1545919737,4073538949,20,Revisi
+152,2025,Pondok Gede,Lingkungan,Perbaikan Jembatan,4517806673,3794206450,75,Disetujui
+153,2024,Mustika Jaya,Pendidikan,Puskesmas Baru,674216591,747842832,73,Draft
+154,2019,Bekasi Selatan,Infrastruktur,Pembangunan Jalan,3660301943,211151838,24,Draft
+155,2018,Bekasi Timur,Kesehatan,Pembangunan Jalan,3543184276,2762915353,37,Draft
+156,2025,Jatisampurna,Ekonomi,Drainase Lingkungan,1325725095,54006862,37,Revisi
+157,2022,Pondok Gede,Ekonomi,Drainase Lingkungan,1306953916,3740049919,83,Draft
+158,2023,Jatisampurna,Ekonomi,Rehabilitasi Sekolah,1989914605,2154040014,2,Draft
+159,2021,Bantargebang,Infrastruktur,Pembangunan Jalan,782511361,1100297623,26,Draft
+160,2020,Bekasi Selatan,Kesehatan,Perbaikan Jembatan,2218707943,3673907220,62,Draft
+161,2020,Pondok Melati,Pendidikan,Revitalisasi Pasar,97030737,4524625143,5,Disetujui
+162,2024,Jatisampurna,Infrastruktur,Pembangunan Jalan,2478476097,267590801,89,Revisi
+163,2021,Bekasi Barat,Infrastruktur,Penerangan Jalan,4152253192,2651855175,39,Draft
+164,2023,Bekasi Barat,Pendidikan,Puskesmas Baru,292812488,4586307755,31,Draft
+165,2021,Pondok Melati,Lingkungan,Rehabilitasi Sekolah,832516071,1038398814,83,Revisi
+166,2021,Medan Satria,Infrastruktur,Rehabilitasi Sekolah,3841722665,1401703094,29,Draft
+167,2023,Bantargebang,Ekonomi,Pembangunan Jalan,1468120025,3618565657,72,Disetujui
+168,2019,Mustika Jaya,Pendidikan,Pengolahan Sampah,4455478020,4264974088,22,Revisi
+169,2018,Medan Satria,Pendidikan,Pengolahan Sampah,1777867004,2932225404,49,Disetujui
+170,2018,Mustika Jaya,Ekonomi,Puskesmas Baru,1129718757,2351814875,50,Revisi
+171,2025,Bantargebang,Infrastruktur,Rehabilitasi Sekolah,1049797624,1880463621,88,Revisi
+172,2024,Bekasi Selatan,Pendidikan,Pembangunan Jalan,1667661439,1017285963,16,Revisi
+173,2020,Bekasi Selatan,Ekonomi,Revitalisasi Pasar,3393605938,1358875219,9,Disetujui
+174,2025,Pondok Gede,Kesehatan,Pembangunan Jalan,2463725617,3787018780,97,Revisi
+175,2024,Mustika Jaya,Lingkungan,Pembangunan Jalan,1551937575,1773990677,33,Disetujui
+176,2021,Jatisampurna,Lingkungan,Penerangan Jalan,3059009943,1083797789,80,Draft
+177,2021,Medan Satria,Pendidikan,Drainase Lingkungan,4128086810,1235919160,87,Revisi
+178,2023,Medan Satria,Infrastruktur,Pembangunan Jalan,4867115183,3437756781,4,Draft
+179,2022,Rawalumbu,Kesehatan,Perbaikan Jembatan,2241437239,1628249779,34,Draft
+180,2022,Bekasi Barat,Lingkungan,Perbaikan Jembatan,3027168084,3147899822,8,Revisi
+181,2025,Bekasi Timur,Infrastruktur,Rehabilitasi Sekolah,3890278390,4225246739,96,Disetujui
+182,2018,Bekasi Timur,Pendidikan,Pembangunan Jalan,975086358,3283048851,35,Disetujui
+183,2020,Medan Satria,Kesehatan,Perbaikan Jembatan,4035639164,4702579477,42,Draft
+184,2022,Pondok Gede,Kesehatan,Puskesmas Baru,3447089579,692629439,5,Draft
+185,2021,Jatisampurna,Kesehatan,Revitalisasi Pasar,2434142065,4577768214,72,Draft
+186,2021,Bekasi Timur,Pendidikan,Puskesmas Baru,4385483694,3137484066,57,Disetujui
+187,2025,Bekasi Selatan,Kesehatan,Pengolahan Sampah,4319144900,3750397543,93,Revisi
+188,2018,Jatisampurna,Kesehatan,Puskesmas Baru,1622872742,3094195076,20,Revisi
+189,2024,Bekasi Timur,Infrastruktur,Revitalisasi Pasar,3261302894,4343712284,30,Disetujui
+190,2023,Bekasi Timur,Lingkungan,Penerangan Jalan,74764031,4055066307,16,Draft
+191,2025,Bekasi Barat,Kesehatan,Perbaikan Jembatan,1344160222,2451756442,19,Revisi
+192,2018,Bantargebang,Ekonomi,Revitalisasi Pasar,3396634935,389866471,59,Revisi
+193,2020,Bekasi Utara,Pendidikan,Drainase Lingkungan,3576276159,3822926921,79,Disetujui
+194,2023,Bekasi Selatan,Lingkungan,Perbaikan Jembatan,776236473,4438967083,44,Revisi
+195,2023,Pondok Melati,Infrastruktur,Drainase Lingkungan,2041553854,832973182,72,Draft
+196,2018,Jatisampurna,Ekonomi,Drainase Lingkungan,2826944814,1089168021,67,Revisi
+197,2018,Bantargebang,Kesehatan,Revitalisasi Pasar,3760782991,2718382155,39,Revisi
+198,2020,Medan Satria,Pendidikan,Drainase Lingkungan,2438772231,2211727731,7,Revisi
+199,2020,Bantargebang,Ekonomi,Drainase Lingkungan,2742599001,4970282484,58,Draft
+200,2020,Rawalumbu,Kesehatan,Penerangan Jalan,1659754806,2423031415,94,Disetujui
+201,2024,Medan Satria,Ekonomi,Pengolahan Sampah,4356833734,2742799178,26,Revisi
+202,2023,Jatisampurna,Ekonomi,Rehabilitasi Sekolah,2634892432,2938183958,2,Revisi
+203,2023,Pondok Melati,Ekonomi,Puskesmas Baru,3186128690,3002776101,19,Revisi
+204,2024,Bantargebang,Infrastruktur,Puskesmas Baru,3726805410,3822160474,15,Revisi
+205,2024,Mustika Jaya,Pendidikan,Drainase Lingkungan,211255113,1712123655,98,Disetujui
+206,2022,Bekasi Barat,Ekonomi,Pembangunan Jalan,737751071,1024854878,26,Draft
+207,2020,Bekasi Barat,Ekonomi,Drainase Lingkungan,3853528971,684771581,87,Disetujui
+208,2019,Jatiasih,Ekonomi,Drainase Lingkungan,1024708576,2407904192,52,Draft
+209,2019,Bekasi Selatan,Kesehatan,Puskesmas Baru,1786080530,4058567633,21,Disetujui
+210,2022,Medan Satria,Ekonomi,Pembangunan Jalan,4228577146,4198682515,90,Disetujui
+211,2022,Rawalumbu,Lingkungan,Puskesmas Baru,605907354,1738705706,80,Revisi
+212,2018,Jatiasih,Infrastruktur,Pembangunan Jalan,1836398265,2588694603,69,Draft
+213,2020,Bekasi Barat,Kesehatan,Pembangunan Jalan,2295265576,2314882894,68,Disetujui
+214,2018,Medan Satria,Kesehatan,Pembangunan Jalan,1016051351,3794980210,52,Draft
+215,2023,Bekasi Utara,Kesehatan,Rehabilitasi Sekolah,4910277834,2145397609,5,Draft
+216,2025,Jatisampurna,Lingkungan,Pengolahan Sampah,3719976275,993240436,1,Revisi
+217,2024,Bekasi Selatan,Lingkungan,Pembangunan Jalan,2296164663,4868834223,1,Disetujui
+218,2024,Medan Satria,Ekonomi,Rehabilitasi Sekolah,2320970395,1768296331,37,Revisi
+219,2023,Bekasi Barat,Pendidikan,Perbaikan Jembatan,2109300904,649443047,43,Revisi
+220,2020,Mustika Jaya,Pendidikan,Pembangunan Jalan,3656272187,1182308079,94,Revisi
+221,2022,Rawalumbu,Kesehatan,Perbaikan Jembatan,4508276010,1583888094,59,Disetujui
+222,2019,Jatisampurna,Pendidikan,Revitalisasi Pasar,1600495083,124561744,13,Draft
+223,2018,Pondok Gede,Pendidikan,Drainase Lingkungan,3128848373,69308767,80,Disetujui
+224,2020,Jatiasih,Ekonomi,Pembangunan Jalan,4858595429,128000056,59,Draft
+225,2025,Medan Satria,Pendidikan,Pembangunan Jalan,4971808194,3759068019,18,Draft
+226,2020,Rawalumbu,Pendidikan,Pengolahan Sampah,324057922,3017491919,94,Revisi
+227,2021,Bekasi Utara,Pendidikan,Perbaikan Jembatan,1761396742,4305853090,22,Revisi
+228,2023,Bekasi Timur,Kesehatan,Penerangan Jalan,2319778837,3479308721,34,Revisi
+229,2020,Pondok Melati,Infrastruktur,Penerangan Jalan,508862520,2223613398,68,Revisi
+230,2025,Medan Satria,Pendidikan,Rehabilitasi Sekolah,681751386,275756487,92,Disetujui
+231,2024,Bantargebang,Kesehatan,Puskesmas Baru,3760483280,4849977449,7,Draft
+232,2022,Bekasi Barat,Infrastruktur,Puskesmas Baru,710569111,2694135333,100,Revisi
+233,2025,Bekasi Selatan,Infrastruktur,Revitalisasi Pasar,4056932252,357798034,49,Revisi
+234,2019,Jatiasih,Ekonomi,Revitalisasi Pasar,2139037953,4445141307,18,Disetujui
+235,2023,Bekasi Barat,Ekonomi,Perbaikan Jembatan,2870303527,3332697010,3,Disetujui
+236,2020,Jatisampurna,Ekonomi,Revitalisasi Pasar,4185606227,1942173656,55,Draft
+237,2020,Bekasi Barat,Pendidikan,Pembangunan Jalan,3548258131,3751980498,16,Draft
+238,2020,Jatisampurna,Kesehatan,Penerangan Jalan,4229812966,3639254748,54,Revisi
+239,2021,Jatisampurna,Infrastruktur,Pengolahan Sampah,4602722845,1499335595,39,Revisi
+240,2019,Pondok Gede,Lingkungan,Drainase Lingkungan,4196368245,4727383175,91,Draft
+241,2023,Bekasi Selatan,Ekonomi,Pembangunan Jalan,425807460,4656748870,51,Disetujui
+242,2024,Bekasi Selatan,Kesehatan,Pembangunan Jalan,3837298619,4122608450,73,Draft
+243,2022,Bekasi Utara,Pendidikan,Pembangunan Jalan,3208643293,3880631846,91,Disetujui
+244,2025,Medan Satria,Ekonomi,Puskesmas Baru,4899630144,4259221293,59,Disetujui
+245,2019,Bekasi Timur,Pendidikan,Rehabilitasi Sekolah,4276046328,2724621655,95,Revisi
+246,2023,Bekasi Utara,Kesehatan,Pengolahan Sampah,2399444947,3919623347,20,Disetujui
+247,2022,Bekasi Barat,Infrastruktur,Pembangunan Jalan,4142100600,4720136650,24,Draft
+248,2019,Bekasi Barat,Kesehatan,Penerangan Jalan,2267583721,4286672987,82,Disetujui
+249,2020,Bekasi Selatan,Infrastruktur,Penerangan Jalan,2716530011,4925047457,55,Draft
+250,2019,Bekasi Utara,Infrastruktur,Drainase Lingkungan,3211694562,1856507522,10,Revisi
+251,2021,Jatisampurna,Lingkungan,Pengolahan Sampah,1457349916,2633820527,51,Revisi
+252,2021,Jatiasih,Kesehatan,Puskesmas Baru,676724777,3028899584,98,Draft
+253,2023,Pondok Gede,Kesehatan,Drainase Lingkungan,4855449629,1751568740,27,Draft
+254,2019,Pondok Melati,Lingkungan,Rehabilitasi Sekolah,4501763376,3570091457,27,Disetujui
+255,2021,Bekasi Barat,Kesehatan,Puskesmas Baru,1233404550,2831473453,1,Draft
+256,2020,Bekasi Timur,Ekonomi,Drainase Lingkungan,3103993561,2229303868,97,Draft
+257,2018,Mustika Jaya,Lingkungan,Pembangunan Jalan,4882307722,300861004,77,Draft
+258,2018,Bantargebang,Ekonomi,Puskesmas Baru,3287589163,4115730118,88,Draft
+259,2025,Bekasi Barat,Ekonomi,Pembangunan Jalan,180424953,2378549651,17,Revisi
+260,2020,Bantargebang,Ekonomi,Rehabilitasi Sekolah,2288616052,2866004683,40,Disetujui
+261,2023,Rawalumbu,Ekonomi,Perbaikan Jembatan,2735303523,4908969860,27,Disetujui
+262,2018,Rawalumbu,Infrastruktur,Pembangunan Jalan,3955948103,4392283046,29,Revisi
+263,2024,Jatisampurna,Pendidikan,Pembangunan Jalan,3882344862,2470233695,86,Revisi
+264,2022,Bekasi Selatan,Infrastruktur,Perbaikan Jembatan,1489926130,3722574558,69,Draft
+265,2020,Pondok Melati,Lingkungan,Perbaikan Jembatan,2818017887,3425401104,100,Revisi
+266,2019,Bekasi Selatan,Infrastruktur,Perbaikan Jembatan,3655285242,4147019130,81,Revisi
+267,2019,Medan Satria,Infrastruktur,Revitalisasi Pasar,4215930208,1276617793,69,Draft
+268,2024,Medan Satria,Kesehatan,Rehabilitasi Sekolah,4816692304,3780603388,21,Draft
+269,2018,Mustika Jaya,Pendidikan,Penerangan Jalan,1071492059,4073749596,13,Revisi
+270,2019,Bekasi Selatan,Lingkungan,Revitalisasi Pasar,1718517252,2939825016,10,Disetujui
+271,2019,Bekasi Utara,Kesehatan,Pembangunan Jalan,787948410,4372468504,19,Revisi
+272,2018,Bekasi Barat,Pendidikan,Rehabilitasi Sekolah,4935814085,1572636193,41,Disetujui
+273,2019,Pondok Gede,Infrastruktur,Pembangunan Jalan,3784224304,4818736499,19,Revisi
+274,2024,Bekasi Timur,Ekonomi,Revitalisasi Pasar,3367780314,1513210856,50,Draft
+275,2019,Pondok Melati,Pendidikan,Perbaikan Jembatan,4618343549,2950300189,73,Disetujui
+276,2025,Jatisampurna,Lingkungan,Puskesmas Baru,3364186357,332117444,66,Revisi
+277,2022,Pondok Melati,Infrastruktur,Puskesmas Baru,4724394287,2985915918,58,Revisi
+278,2025,Rawalumbu,Kesehatan,Revitalisasi Pasar,1697514876,1137717637,67,Draft
+279,2020,Bantargebang,Ekonomi,Rehabilitasi Sekolah,211777533,3326070130,31,Disetujui
+280,2019,Bekasi Selatan,Pendidikan,Puskesmas Baru,1380548388,3269634685,42,Disetujui
+281,2025,Jatisampurna,Lingkungan,Revitalisasi Pasar,3504203667,4683559356,67,Draft
+282,2023,Rawalumbu,Kesehatan,Perbaikan Jembatan,4016225621,3030104294,81,Disetujui
+283,2023,Bantargebang,Kesehatan,Penerangan Jalan,454784593,641238408,79,Draft
+284,2021,Pondok Melati,Ekonomi,Puskesmas Baru,415089637,4085572535,48,Revisi
+285,2022,Bantargebang,Kesehatan,Penerangan Jalan,1987179540,2228687572,59,Revisi
+286,2019,Mustika Jaya,Pendidikan,Pengolahan Sampah,3118340995,1075646624,54,Disetujui
+287,2022,Bekasi Selatan,Infrastruktur,Drainase Lingkungan,4849198279,169583512,98,Disetujui
+288,2020,Bekasi Utara,Kesehatan,Pembangunan Jalan,1222180813,1460784710,4,Revisi
+289,2023,Rawalumbu,Lingkungan,Drainase Lingkungan,1733370963,2760748301,36,Revisi
+290,2025,Jatiasih,Ekonomi,Pembangunan Jalan,3071861957,2218425703,69,Draft
+291,2025,Medan Satria,Infrastruktur,Perbaikan Jembatan,953237545,1282159342,12,Draft
+292,2021,Bekasi Timur,Pendidikan,Puskesmas Baru,4369980762,2922971352,43,Revisi
+293,2021,Medan Satria,Pendidikan,Drainase Lingkungan,2086815601,1174805970,35,Revisi
+294,2022,Jatiasih,Kesehatan,Pembangunan Jalan,1682103952,774706936,99,Disetujui
+295,2020,Bekasi Selatan,Kesehatan,Pembangunan Jalan,1907984550,481388699,30,Disetujui
+296,2018,Bekasi Timur,Kesehatan,Perbaikan Jembatan,3556994928,4647670007,40,Disetujui
+297,2021,Pondok Gede,Infrastruktur,Perbaikan Jembatan,2842919182,562727044,75,Disetujui
+298,2022,Rawalumbu,Lingkungan,Penerangan Jalan,4402762244,4305947941,89,Revisi
+299,2020,Jatisampurna,Lingkungan,Puskesmas Baru,1012963996,2317569263,75,Disetujui
+300,2022,Jatiasih,Infrastruktur,Puskesmas Baru,4875857625,185944237,4,Disetujui
+301,2020,Bekasi Utara,Infrastruktur,Puskesmas Baru,657846587,2750102477,59,Disetujui
+302,2019,Bekasi Barat,Ekonomi,Penerangan Jalan,1698846574,775998197,96,Revisi
+303,2024,Bekasi Barat,Infrastruktur,Rehabilitasi Sekolah,4143562665,2400193616,40,Revisi
+304,2019,Bekasi Timur,Kesehatan,Penerangan Jalan,1909293598,4885226143,91,Revisi
+305,2023,Jatiasih,Pendidikan,Pembangunan Jalan,958462117,1797647464,78,Disetujui
+306,2023,Pondok Gede,Pendidikan,Perbaikan Jembatan,4335853827,1051375386,95,Disetujui
+307,2020,Pondok Melati,Kesehatan,Penerangan Jalan,3781142891,2751765116,34,Revisi
+308,2023,Bekasi Utara,Pendidikan,Revitalisasi Pasar,865523232,2743591960,67,Disetujui
+309,2018,Rawalumbu,Pendidikan,Perbaikan Jembatan,2448071533,3675946298,89,Disetujui
+310,2021,Pondok Gede,Pendidikan,Penerangan Jalan,2158520941,2240966587,25,Revisi
+311,2022,Bekasi Utara,Pendidikan,Pembangunan Jalan,3399843070,2903277772,77,Revisi
+312,2025,Jatisampurna,Lingkungan,Pengolahan Sampah,921260815,1324832685,8,Revisi
+313,2024,Rawalumbu,Infrastruktur,Drainase Lingkungan,2508085922,1475364454,99,Draft
+314,2021,Bekasi Barat,Ekonomi,Puskesmas Baru,1876264640,3237309009,57,Disetujui
+315,2020,Jatiasih,Ekonomi,Drainase Lingkungan,1342017970,1144157678,64,Disetujui
+316,2023,Mustika Jaya,Lingkungan,Rehabilitasi Sekolah,3591237343,2599670037,81,Revisi
+317,2021,Bantargebang,Lingkungan,Pembangunan Jalan,1745581016,1750132734,9,Draft
+318,2023,Jatiasih,Kesehatan,Perbaikan Jembatan,4396296986,1243281746,53,Draft
+319,2022,Bantargebang,Infrastruktur,Penerangan Jalan,318731260,4124498776,64,Revisi
+320,2024,Pondok Melati,Ekonomi,Puskesmas Baru,696686816,234361429,67,Draft
+321,2024,Mustika Jaya,Lingkungan,Puskesmas Baru,910248377,4152278397,55,Revisi
+322,2025,Bekasi Utara,Lingkungan,Rehabilitasi Sekolah,2924227474,3635357422,47,Revisi
+323,2021,Bantargebang,Kesehatan,Perbaikan Jembatan,3900747514,4618308846,85,Draft
+324,2019,Jatisampurna,Ekonomi,Revitalisasi Pasar,1465651490,2775039135,60,Disetujui
+325,2022,Medan Satria,Infrastruktur,Pembangunan Jalan,3883947786,4167099292,24,Disetujui
+326,2018,Bekasi Timur,Kesehatan,Pembangunan Jalan,1836590508,2797370233,7,Revisi
+327,2022,Medan Satria,Lingkungan,Rehabilitasi Sekolah,390032047,582218928,44,Disetujui
+328,2024,Mustika Jaya,Infrastruktur,Penerangan Jalan,644242846,4239813922,99,Disetujui
+329,2024,Bantargebang,Lingkungan,Drainase Lingkungan,4535228052,3543786051,26,Disetujui
+330,2025,Mustika Jaya,Pendidikan,Puskesmas Baru,4732570192,40535918,2,Draft
+331,2018,Bekasi Timur,Infrastruktur,Perbaikan Jembatan,910853390,4815770251,67,Revisi
+332,2024,Medan Satria,Pendidikan,Perbaikan Jembatan,3183704854,4640641917,54,Draft
+333,2024,Rawalumbu,Infrastruktur,Pembangunan Jalan,3982227256,1784025830,8,Disetujui
+334,2020,Rawalumbu,Ekonomi,Pengolahan Sampah,282447171,1964912806,9,Draft
+335,2021,Pondok Gede,Kesehatan,Puskesmas Baru,3532526462,4506182607,0,Draft
+336,2025,Bekasi Selatan,Pendidikan,Perbaikan Jembatan,3702839801,3181743710,6,Disetujui
+337,2024,Bekasi Timur,Infrastruktur,Drainase Lingkungan,4873439196,2901408084,82,Revisi
+338,2025,Bekasi Timur,Ekonomi,Revitalisasi Pasar,4716362874,2569834959,13,Revisi
+339,2021,Jatiasih,Pendidikan,Penerangan Jalan,2259755180,3867457275,93,Draft
+340,2020,Bekasi Barat,Infrastruktur,Penerangan Jalan,2906320401,3411983914,48,Disetujui
+341,2023,Medan Satria,Kesehatan,Pengolahan Sampah,4155020953,4271728981,34,Draft
+342,2021,Bekasi Utara,Pendidikan,Pembangunan Jalan,2349141824,281518598,33,Draft
+343,2018,Bantargebang,Pendidikan,Penerangan Jalan,3712643220,2356377414,14,Disetujui
+344,2023,Rawalumbu,Ekonomi,Pembangunan Jalan,729361621,1629716948,39,Draft
+345,2022,Bekasi Timur,Ekonomi,Perbaikan Jembatan,652258543,1146694889,1,Revisi
+346,2023,Bekasi Barat,Infrastruktur,Revitalisasi Pasar,2461601289,378158839,27,Disetujui
+347,2021,Pondok Melati,Lingkungan,Rehabilitasi Sekolah,1481650718,519678632,36,Draft
+348,2025,Bekasi Barat,Kesehatan,Rehabilitasi Sekolah,3493537206,2098543310,8,Revisi
+349,2022,Bekasi Utara,Kesehatan,Pengolahan Sampah,2325019926,237829372,68,Draft
+350,2020,Pondok Melati,Ekonomi,Rehabilitasi Sekolah,1787521776,3108457047,0,Disetujui
+351,2025,Jatisampurna,Ekonomi,Drainase Lingkungan,1217890406,3483734002,71,Disetujui
+352,2023,Pondok Melati,Kesehatan,Pembangunan Jalan,3796917754,754003787,63,Draft
+353,2018,Jatiasih,Kesehatan,Pembangunan Jalan,131618372,2083243606,87,Revisi
+354,2023,Rawalumbu,Pendidikan,Perbaikan Jembatan,4809039369,14807301,82,Draft
+355,2020,Mustika Jaya,Kesehatan,Revitalisasi Pasar,482984844,2583109672,77,Draft
+356,2020,Bekasi Barat,Kesehatan,Penerangan Jalan,1887120194,4086624682,6,Revisi
+357,2018,Bekasi Utara,Ekonomi,Puskesmas Baru,410946118,3884758351,49,Revisi
+358,2025,Bekasi Barat,Lingkungan,Puskesmas Baru,609659272,3583872772,61,Revisi
+359,2020,Bekasi Timur,Lingkungan,Pengolahan Sampah,1755596754,1646389341,76,Disetujui
+360,2024,Mustika Jaya,Lingkungan,Perbaikan Jembatan,2066295416,1952540736,10,Revisi
+361,2024,Bekasi Timur,Lingkungan,Penerangan Jalan,881958897,4252107301,73,Disetujui
+362,2018,Bekasi Timur,Kesehatan,Penerangan Jalan,2686068713,4544289451,48,Draft
+363,2025,Bantargebang,Lingkungan,Pembangunan Jalan,3455120589,3181569913,67,Draft
+364,2019,Jatiasih,Infrastruktur,Perbaikan Jembatan,2275137594,1278798953,38,Draft
+365,2021,Medan Satria,Kesehatan,Rehabilitasi Sekolah,990277726,2262848203,48,Draft
+366,2018,Jatiasih,Ekonomi,Drainase Lingkungan,161523060,506882014,37,Disetujui
+367,2024,Mustika Jaya,Infrastruktur,Pengolahan Sampah,3250856775,1706403705,17,Draft
+368,2022,Pondok Melati,Infrastruktur,Puskesmas Baru,4249028559,4027270698,60,Revisi
+369,2019,Pondok Melati,Lingkungan,Perbaikan Jembatan,4368324375,1077098074,51,Disetujui
+370,2025,Rawalumbu,Ekonomi,Rehabilitasi Sekolah,3936111918,658332242,25,Draft
+371,2019,Jatisampurna,Ekonomi,Revitalisasi Pasar,2245528258,1991842224,88,Disetujui
+372,2021,Jatiasih,Ekonomi,Rehabilitasi Sekolah,743198704,943312504,7,Draft
+373,2021,Bantargebang,Kesehatan,Puskesmas Baru,2797542731,1275113892,87,Disetujui
+374,2019,Medan Satria,Pendidikan,Pembangunan Jalan,4112325878,3695256449,92,Revisi
+375,2025,Pondok Melati,Pendidikan,Perbaikan Jembatan,2526644797,4334750484,79,Disetujui
+376,2025,Jatiasih,Kesehatan,Perbaikan Jembatan,3735578158,2540767860,12,Revisi
+377,2021,Bantargebang,Lingkungan,Pembangunan Jalan,2104605235,904779616,21,Disetujui
+378,2024,Pondok Gede,Ekonomi,Perbaikan Jembatan,2522441198,3145983347,8,Draft
+379,2019,Bekasi Utara,Ekonomi,Penerangan Jalan,4292238814,2976288628,39,Revisi
+380,2023,Jatisampurna,Ekonomi,Perbaikan Jembatan,4710093506,318490646,46,Disetujui
+381,2025,Rawalumbu,Lingkungan,Pengolahan Sampah,918541201,1022590177,59,Draft
+382,2023,Bantargebang,Kesehatan,Puskesmas Baru,3628456342,1633365301,25,Disetujui
+383,2025,Pondok Melati,Infrastruktur,Drainase Lingkungan,3798234855,2811611418,36,Disetujui
+384,2023,Pondok Gede,Ekonomi,Perbaikan Jembatan,3671840835,1872705702,16,Revisi
+385,2019,Jatiasih,Lingkungan,Rehabilitasi Sekolah,1641238302,1788155738,19,Revisi
+386,2019,Bantargebang,Kesehatan,Pengolahan Sampah,4291843778,3402044044,28,Disetujui
+387,2022,Bekasi Timur,Pendidikan,Drainase Lingkungan,2302677138,2253296041,95,Revisi
+388,2021,Jatiasih,Lingkungan,Rehabilitasi Sekolah,1864464266,1337945937,57,Disetujui
+389,2023,Bekasi Utara,Kesehatan,Drainase Lingkungan,2570774779,4689147649,62,Draft
+390,2024,Bantargebang,Pendidikan,Perbaikan Jembatan,1195782106,764375076,95,Revisi
+391,2023,Pondok Gede,Ekonomi,Puskesmas Baru,2472598264,21868465,45,Revisi
+392,2019,Medan Satria,Lingkungan,Puskesmas Baru,844918162,3922737404,6,Disetujui
+393,2025,Jatiasih,Lingkungan,Pembangunan Jalan,2173881830,3384820808,84,Draft
+394,2024,Pondok Gede,Lingkungan,Pengolahan Sampah,4881422057,665505487,27,Draft
+395,2018,Bekasi Timur,Pendidikan,Pengolahan Sampah,2814205684,1089442580,66,Revisi
+396,2023,Pondok Melati,Lingkungan,Pembangunan Jalan,653584344,1618368077,9,Draft
+397,2018,Pondok Gede,Pendidikan,Rehabilitasi Sekolah,167305663,192256337,62,Revisi
+398,2021,Medan Satria,Pendidikan,Pembangunan Jalan,1957445755,2740684682,10,Revisi
+399,2025,Pondok Gede,Pendidikan,Revitalisasi Pasar,593138413,4287879439,22,Draft
+400,2023,Bekasi Barat,Ekonomi,Pengolahan Sampah,4083440167,2853309601,39,Disetujui
+401,2018,Pondok Gede,Kesehatan,Pengolahan Sampah,352703457,2879356405,41,Draft
+402,2021,Rawalumbu,Ekonomi,Pengolahan Sampah,3602532749,3446375084,49,Disetujui
+403,2023,Rawalumbu,Infrastruktur,Drainase Lingkungan,779900901,3267905903,87,Disetujui
+404,2021,Bantargebang,Kesehatan,Penerangan Jalan,2064729851,4615616650,68,Revisi
+405,2022,Jatisampurna,Lingkungan,Pembangunan Jalan,3803288500,269941025,31,Draft
+406,2021,Bekasi Utara,Pendidikan,Pengolahan Sampah,4848394802,2816955192,32,Disetujui
+407,2022,Mustika Jaya,Pendidikan,Drainase Lingkungan,949474942,964129312,30,Revisi
+408,2021,Bekasi Utara,Kesehatan,Revitalisasi Pasar,2620219176,1387061292,80,Disetujui
+409,2019,Bantargebang,Ekonomi,Pengolahan Sampah,2132310089,3721881146,97,Disetujui
+410,2022,Rawalumbu,Ekonomi,Rehabilitasi Sekolah,808910481,710613068,81,Disetujui
+411,2023,Bekasi Barat,Pendidikan,Pembangunan Jalan,3316411609,1025738284,78,Revisi
+412,2025,Medan Satria,Ekonomi,Pengolahan Sampah,845146397,954661886,17,Draft
+413,2021,Jatiasih,Lingkungan,Drainase Lingkungan,4727730693,200785026,19,Draft
+414,2021,Mustika Jaya,Pendidikan,Drainase Lingkungan,1556946064,2208557980,59,Revisi
+415,2023,Bekasi Timur,Pendidikan,Puskesmas Baru,2010667215,522968501,46,Draft
+416,2023,Medan Satria,Infrastruktur,Pengolahan Sampah,4638052500,3721775098,91,Revisi
+417,2020,Bekasi Timur,Pendidikan,Revitalisasi Pasar,2920123539,4658439623,68,Revisi
+418,2025,Bantargebang,Pendidikan,Pengolahan Sampah,1134200105,2772639519,4,Disetujui
+419,2018,Mustika Jaya,Ekonomi,Rehabilitasi Sekolah,1469753938,1845867221,64,Disetujui
+420,2022,Bekasi Selatan,Infrastruktur,Puskesmas Baru,116087690,2305913149,56,Revisi
+421,2020,Bantargebang,Pendidikan,Puskesmas Baru,3648999012,155645555,3,Revisi
+422,2021,Pondok Gede,Kesehatan,Revitalisasi Pasar,1804595101,618841507,90,Revisi
+423,2023,Pondok Gede,Pendidikan,Pembangunan Jalan,4552772774,1473361401,7,Draft
+424,2023,Bekasi Timur,Kesehatan,Drainase Lingkungan,501909418,4869206082,47,Draft
+425,2024,Bekasi Utara,Ekonomi,Perbaikan Jembatan,392804372,3476589343,0,Revisi
+426,2018,Bekasi Timur,Ekonomi,Drainase Lingkungan,4651910491,1507290334,15,Revisi
+427,2021,Bekasi Selatan,Lingkungan,Rehabilitasi Sekolah,2419430554,2302751816,42,Revisi
+428,2021,Jatisampurna,Lingkungan,Perbaikan Jembatan,4341243503,4836326498,86,Draft
+429,2025,Pondok Gede,Lingkungan,Penerangan Jalan,765128295,2470322805,34,Draft
+430,2022,Rawalumbu,Ekonomi,Penerangan Jalan,426633970,4024325564,67,Disetujui
+431,2020,Bekasi Barat,Lingkungan,Puskesmas Baru,396021497,1273717022,86,Revisi
+432,2025,Bekasi Timur,Pendidikan,Perbaikan Jembatan,3682553847,4630081117,30,Revisi
+433,2023,Bekasi Timur,Pendidikan,Pembangunan Jalan,2141866302,3119020051,40,Draft
+434,2018,Bekasi Barat,Lingkungan,Puskesmas Baru,4232177160,1466126858,13,Draft
+435,2021,Mustika Jaya,Ekonomi,Pembangunan Jalan,3096558008,3620367195,34,Draft
+436,2018,Bekasi Selatan,Infrastruktur,Pembangunan Jalan,2916410276,2207238039,8,Draft
+437,2020,Pondok Melati,Ekonomi,Drainase Lingkungan,1606067974,2448606460,25,Revisi
+438,2020,Rawalumbu,Infrastruktur,Puskesmas Baru,2300174414,4612409909,42,Disetujui
+439,2018,Pondok Melati,Ekonomi,Puskesmas Baru,1909087342,2745964620,88,Disetujui
+440,2021,Rawalumbu,Lingkungan,Drainase Lingkungan,1625015059,904199312,19,Draft
+441,2019,Jatiasih,Ekonomi,Drainase Lingkungan,1752631633,4543277280,4,Disetujui
+442,2025,Bekasi Barat,Ekonomi,Revitalisasi Pasar,4252958368,696541618,95,Revisi
+443,2023,Rawalumbu,Ekonomi,Perbaikan Jembatan,2523879987,336215810,21,Revisi
+444,2023,Pondok Melati,Lingkungan,Rehabilitasi Sekolah,3403698583,4837449938,0,Draft
+445,2019,Bekasi Selatan,Kesehatan,Penerangan Jalan,660452392,4385184716,18,Revisi
+446,2018,Bekasi Barat,Lingkungan,Rehabilitasi Sekolah,1007200554,1448771976,74,Draft
+447,2020,Bekasi Selatan,Lingkungan,Puskesmas Baru,1061157232,1978236498,6,Draft
+448,2023,Pondok Gede,Ekonomi,Rehabilitasi Sekolah,3019572772,2802057324,34,Draft
+449,2018,Jatiasih,Ekonomi,Penerangan Jalan,4327518004,1241851920,24,Revisi
+450,2022,Jatiasih,Infrastruktur,Pengolahan Sampah,2841834603,3160430718,33,Draft
+451,2022,Medan Satria,Infrastruktur,Pengolahan Sampah,626585118,4187107073,48,Disetujui
+452,2018,Jatisampurna,Infrastruktur,Drainase Lingkungan,3609173158,1961390379,87,Disetujui
+453,2023,Bekasi Selatan,Pendidikan,Rehabilitasi Sekolah,62468351,737103881,3,Revisi
+454,2024,Medan Satria,Pendidikan,Perbaikan Jembatan,4261900755,4543450990,46,Draft
+455,2020,Rawalumbu,Lingkungan,Drainase Lingkungan,2965387300,924797677,55,Revisi
+456,2020,Bekasi Selatan,Kesehatan,Perbaikan Jembatan,3755092708,3759530687,13,Revisi
+457,2018,Mustika Jaya,Infrastruktur,Pengolahan Sampah,2468566180,1184445373,1,Draft
+458,2024,Pondok Melati,Pendidikan,Revitalisasi Pasar,55635027,2405519742,1,Draft
+459,2020,Rawalumbu,Pendidikan,Penerangan Jalan,289188869,2663243423,52,Draft
+460,2018,Bekasi Timur,Infrastruktur,Pembangunan Jalan,645852057,4950753399,34,Draft
+461,2022,Jatiasih,Kesehatan,Pengolahan Sampah,613421885,1705645523,4,Revisi
+462,2018,Jatiasih,Ekonomi,Perbaikan Jembatan,4036966802,272291328,53,Disetujui
+463,2019,Pondok Melati,Infrastruktur,Rehabilitasi Sekolah,3855112304,4816841605,25,Draft
+464,2018,Jatisampurna,Ekonomi,Perbaikan Jembatan,2975927619,2883224017,91,Disetujui
+465,2022,Bekasi Utara,Pendidikan,Pengolahan Sampah,3382001966,2444936263,79,Draft
+466,2022,Bekasi Selatan,Kesehatan,Drainase Lingkungan,2860798570,4205849152,40,Disetujui
+467,2021,Bekasi Timur,Pendidikan,Perbaikan Jembatan,4551020451,3029139510,74,Draft
+468,2022,Bekasi Timur,Infrastruktur,Revitalisasi Pasar,4803551810,112466957,1,Disetujui
+469,2020,Mustika Jaya,Lingkungan,Pembangunan Jalan,3291399297,3875351049,53,Disetujui
+470,2024,Rawalumbu,Lingkungan,Puskesmas Baru,2775499641,1116505855,31,Draft
+471,2022,Pondok Gede,Pendidikan,Rehabilitasi Sekolah,985713453,3726537630,6,Disetujui
+472,2022,Bantargebang,Lingkungan,Penerangan Jalan,2249706620,2461967179,8,Revisi
+473,2019,Pondok Melati,Kesehatan,Penerangan Jalan,4090182599,494683235,4,Draft
+474,2020,Medan Satria,Pendidikan,Pembangunan Jalan,1841540342,269192271,60,Disetujui
+475,2022,Pondok Gede,Kesehatan,Perbaikan Jembatan,2853393576,4811602686,19,Disetujui
+476,2021,Pondok Gede,Ekonomi,Puskesmas Baru,4792108157,4113117297,15,Disetujui
+477,2020,Bantargebang,Ekonomi,Penerangan Jalan,1560460901,1817684067,85,Draft
+478,2019,Pondok Gede,Ekonomi,Rehabilitasi Sekolah,2080540429,4848443054,49,Disetujui
+479,2022,Bekasi Timur,Kesehatan,Puskesmas Baru,2098221115,4131029578,80,Disetujui
+480,2019,Bekasi Timur,Pendidikan,Perbaikan Jembatan,173035380,2710187205,1,Revisi
+481,2025,Bekasi Utara,Pendidikan,Penerangan Jalan,2590877644,4936680664,94,Disetujui
+482,2021,Pondok Melati,Lingkungan,Puskesmas Baru,3360116137,986332030,6,Disetujui
+483,2018,Mustika Jaya,Lingkungan,Penerangan Jalan,1088730939,1771755756,86,Revisi
+484,2018,Jatisampurna,Pendidikan,Rehabilitasi Sekolah,1166127042,390256534,92,Disetujui
+485,2024,Pondok Gede,Infrastruktur,Pengolahan Sampah,2751090908,138169485,16,Revisi
+486,2020,Medan Satria,Lingkungan,Pengolahan Sampah,978628317,1771468108,26,Revisi
+487,2019,Mustika Jaya,Pendidikan,Rehabilitasi Sekolah,3346442389,4203013118,35,Draft
+488,2020,Bantargebang,Ekonomi,Penerangan Jalan,2948733281,4140013778,46,Draft
+489,2019,Bekasi Selatan,Lingkungan,Pembangunan Jalan,1820984579,1600513714,2,Disetujui
+490,2018,Bekasi Barat,Pendidikan,Perbaikan Jembatan,3782773626,471355223,34,Draft
+491,2019,Jatisampurna,Ekonomi,Pembangunan Jalan,952380473,2214433003,48,Disetujui
+492,2019,Bekasi Selatan,Ekonomi,Penerangan Jalan,4532257581,4833170791,31,Revisi
+493,2018,Bekasi Utara,Kesehatan,Pengolahan Sampah,138366223,2003830387,87,Draft
+494,2021,Bekasi Utara,Ekonomi,Pembangunan Jalan,4426459164,2365565593,42,Revisi
+495,2022,Rawalumbu,Infrastruktur,Perbaikan Jembatan,4594756489,4849384056,8,Disetujui
+496,2025,Jatisampurna,Pendidikan,Pengolahan Sampah,4639019295,3768079872,35,Disetujui
+497,2020,Medan Satria,Kesehatan,Puskesmas Baru,1841663876,3522903470,82,Revisi
+498,2022,Jatisampurna,Lingkungan,Perbaikan Jembatan,4743992498,3378719762,54,Draft
+499,2024,Pondok Melati,Ekonomi,Puskesmas Baru,4319615929,1231345758,52,Draft
+500,2024,Medan Satria,Kesehatan,Pembangunan Jalan,699922019,734614771,1,Revisi
+501,2025,Pondok Melati,Lingkungan,Puskesmas Baru,2166626449,4431032415,96,Disetujui
+502,2025,Jatiasih,Infrastruktur,Puskesmas Baru,264371191,1574725108,35,Revisi
+503,2024,Bekasi Barat,Lingkungan,Pembangunan Jalan,1840424912,2366892759,68,Revisi
+504,2022,Jatiasih,Ekonomi,Perbaikan Jembatan,4402756691,1250124221,35,Disetujui
+505,2021,Pondok Gede,Ekonomi,Revitalisasi Pasar,184121510,1965395790,98,Draft
+506,2019,Rawalumbu,Kesehatan,Pengolahan Sampah,4155630059,174352546,57,Draft
+507,2020,Pondok Melati,Lingkungan,Pengolahan Sampah,3727766707,297455100,39,Disetujui
+508,2023,Bekasi Barat,Lingkungan,Perbaikan Jembatan,4723617344,4871572201,14,Revisi
+509,2024,Pondok Gede,Ekonomi,Puskesmas Baru,1393502136,1301901033,55,Revisi
+510,2019,Bekasi Utara,Lingkungan,Perbaikan Jembatan,1108957828,4494683484,20,Draft
+511,2023,Rawalumbu,Ekonomi,Pembangunan Jalan,859941333,1041642469,23,Revisi
+512,2018,Jatiasih,Kesehatan,Pembangunan Jalan,3174701277,4316918757,89,Disetujui
+513,2024,Medan Satria,Pendidikan,Puskesmas Baru,4548017807,313144160,24,Revisi
+514,2018,Rawalumbu,Infrastruktur,Revitalisasi Pasar,3739034548,4534457657,52,Revisi
+515,2022,Bekasi Timur,Kesehatan,Puskesmas Baru,1294339646,962943581,32,Disetujui
+516,2024,Jatiasih,Lingkungan,Revitalisasi Pasar,2448455206,43746393,32,Disetujui
+517,2020,Bekasi Barat,Ekonomi,Perbaikan Jembatan,4068004548,4343693166,86,Draft
+518,2019,Medan Satria,Kesehatan,Penerangan Jalan,3700208498,4286234264,73,Revisi
+519,2022,Pondok Gede,Kesehatan,Drainase Lingkungan,1669355157,1563674831,2,Disetujui
+520,2021,Bekasi Barat,Kesehatan,Rehabilitasi Sekolah,2468440702,1886380440,54,Disetujui
+521,2018,Bantargebang,Pendidikan,Pembangunan Jalan,4156269448,1245816042,72,Revisi
+522,2020,Bekasi Selatan,Lingkungan,Penerangan Jalan,1329718436,2375941802,39,Disetujui
+523,2023,Jatisampurna,Infrastruktur,Drainase Lingkungan,4915203597,2945284847,79,Disetujui
+524,2020,Medan Satria,Lingkungan,Pengolahan Sampah,3025827036,2810798598,31,Disetujui
+525,2024,Jatiasih,Kesehatan,Puskesmas Baru,4865203385,1596121897,71,Revisi
+526,2024,Pondok Melati,Infrastruktur,Pembangunan Jalan,4886072006,2551750514,62,Draft
+527,2022,Rawalumbu,Lingkungan,Perbaikan Jembatan,2999708151,3453909479,63,Disetujui
+528,2023,Bekasi Barat,Kesehatan,Drainase Lingkungan,3173570023,4578951745,100,Revisi
+529,2023,Bekasi Selatan,Infrastruktur,Pembangunan Jalan,4109705562,764139285,49,Disetujui
+530,2024,Bekasi Timur,Kesehatan,Puskesmas Baru,1349302436,3375676809,35,Draft
+531,2020,Bekasi Timur,Lingkungan,Pembangunan Jalan,3230008009,2153591702,9,Draft
+532,2020,Jatiasih,Ekonomi,Rehabilitasi Sekolah,418649376,4351651306,75,Disetujui
+533,2023,Mustika Jaya,Kesehatan,Penerangan Jalan,3057412732,2073747874,95,Disetujui
+534,2019,Mustika Jaya,Infrastruktur,Pengolahan Sampah,2043709521,4306054805,47,Disetujui
+535,2019,Bekasi Barat,Lingkungan,Pembangunan Jalan,2788872164,240494659,61,Draft
+536,2021,Bekasi Utara,Pendidikan,Drainase Lingkungan,3465394505,1095525193,5,Disetujui
+537,2019,Bekasi Selatan,Kesehatan,Rehabilitasi Sekolah,106691716,1940427172,97,Disetujui
+538,2023,Rawalumbu,Pendidikan,Revitalisasi Pasar,3934537280,792211197,93,Draft
+539,2019,Bekasi Barat,Ekonomi,Revitalisasi Pasar,3657481864,462787218,49,Draft
+540,2025,Bekasi Selatan,Ekonomi,Penerangan Jalan,4049319826,634827316,81,Revisi
+541,2018,Bantargebang,Kesehatan,Pengolahan Sampah,4542086724,3965017466,84,Revisi
+542,2019,Mustika Jaya,Pendidikan,Perbaikan Jembatan,472322767,1479963385,39,Disetujui
+543,2022,Jatiasih,Kesehatan,Pengolahan Sampah,3247423513,3561008784,79,Revisi
+544,2018,Bekasi Timur,Pendidikan,Perbaikan Jembatan,1478730560,4087886190,22,Draft
+545,2018,Medan Satria,Lingkungan,Pembangunan Jalan,1913977666,2084369719,10,Revisi
+546,2022,Rawalumbu,Kesehatan,Puskesmas Baru,448322130,1956760287,60,Disetujui
+547,2022,Bekasi Utara,Pendidikan,Drainase Lingkungan,3602979426,3514529914,35,Draft
+548,2021,Bekasi Selatan,Infrastruktur,Pembangunan Jalan,3900809874,2109512289,100,Draft
+549,2023,Mustika Jaya,Infrastruktur,Pengolahan Sampah,1153232522,2089152107,56,Draft
+550,2020,Rawalumbu,Pendidikan,Perbaikan Jembatan,3135377990,1149551659,33,Draft
+551,2021,Bekasi Selatan,Lingkungan,Puskesmas Baru,2283481295,1328439938,9,Revisi
+552,2023,Jatisampurna,Ekonomi,Puskesmas Baru,2343882663,3631517392,29,Disetujui
+553,2020,Mustika Jaya,Pendidikan,Revitalisasi Pasar,3778243708,1453003477,51,Disetujui
+554,2024,Bekasi Selatan,Ekonomi,Drainase Lingkungan,1447553904,766845963,80,Disetujui
+555,2024,Medan Satria,Infrastruktur,Rehabilitasi Sekolah,2302141757,1860969016,72,Revisi
+556,2018,Pondok Gede,Ekonomi,Puskesmas Baru,1100300768,3792474356,41,Revisi
+557,2023,Rawalumbu,Kesehatan,Puskesmas Baru,3025560736,1306095707,83,Disetujui
+558,2018,Jatiasih,Infrastruktur,Pembangunan Jalan,4285243871,1644747563,34,Draft
+559,2019,Medan Satria,Ekonomi,Penerangan Jalan,103531568,1767286376,92,Draft
+560,2023,Pondok Melati,Kesehatan,Puskesmas Baru,1224527350,866932827,80,Disetujui
+561,2024,Rawalumbu,Pendidikan,Revitalisasi Pasar,84330248,2462298889,11,Revisi
+562,2021,Bekasi Barat,Kesehatan,Rehabilitasi Sekolah,4147895306,2178407631,92,Draft
+563,2022,Bekasi Barat,Infrastruktur,Drainase Lingkungan,4162892549,4904031400,46,Revisi
+564,2021,Bantargebang,Kesehatan,Drainase Lingkungan,738447856,986537514,78,Disetujui
+565,2018,Medan Satria,Pendidikan,Puskesmas Baru,1949407615,2643056163,50,Disetujui
+566,2025,Medan Satria,Infrastruktur,Rehabilitasi Sekolah,2945654728,4973174159,62,Draft
+567,2021,Bekasi Utara,Pendidikan,Perbaikan Jembatan,2838622294,999572952,47,Revisi
+568,2024,Pondok Gede,Ekonomi,Rehabilitasi Sekolah,3548896184,768995094,59,Draft
+569,2024,Rawalumbu,Kesehatan,Revitalisasi Pasar,4215914780,814587648,66,Disetujui
+570,2020,Pondok Melati,Ekonomi,Perbaikan Jembatan,470695367,870678102,9,Disetujui
+571,2022,Mustika Jaya,Ekonomi,Revitalisasi Pasar,436091995,2155422532,88,Revisi
+572,2023,Jatisampurna,Infrastruktur,Drainase Lingkungan,3226957969,1051243264,51,Disetujui
+573,2019,Bekasi Barat,Lingkungan,Drainase Lingkungan,3550552452,4765362670,97,Revisi
+574,2025,Medan Satria,Lingkungan,Perbaikan Jembatan,2338905325,972058916,73,Revisi
+575,2022,Pondok Gede,Ekonomi,Revitalisasi Pasar,2613454900,2082453768,4,Revisi
+576,2018,Pondok Melati,Pendidikan,Rehabilitasi Sekolah,3748687388,2435505591,94,Draft
+577,2024,Pondok Gede,Infrastruktur,Puskesmas Baru,3239121828,4947511079,31,Disetujui
+578,2023,Jatisampurna,Kesehatan,Drainase Lingkungan,1803842552,4337152959,80,Disetujui
+579,2024,Pondok Melati,Ekonomi,Perbaikan Jembatan,3305401570,215238980,71,Draft
+580,2020,Bekasi Utara,Ekonomi,Pembangunan Jalan,2676742504,679818989,37,Draft
+581,2019,Rawalumbu,Pendidikan,Penerangan Jalan,638374297,3367894585,72,Draft
+582,2020,Rawalumbu,Infrastruktur,Pengolahan Sampah,3451073639,948229671,75,Draft
+583,2020,Bekasi Utara,Ekonomi,Rehabilitasi Sekolah,211556070,4266822350,94,Draft
+584,2018,Medan Satria,Infrastruktur,Revitalisasi Pasar,2373979700,2980672690,69,Draft
+585,2022,Pondok Gede,Ekonomi,Perbaikan Jembatan,3237291460,2606091448,90,Revisi
+586,2025,Mustika Jaya,Kesehatan,Pembangunan Jalan,2854756857,1114688383,36,Draft
+587,2020,Jatisampurna,Pendidikan,Rehabilitasi Sekolah,4493084147,536623552,54,Revisi
+588,2021,Pondok Melati,Pendidikan,Pengolahan Sampah,4577165656,4620651428,95,Revisi
+589,2020,Bekasi Selatan,Ekonomi,Pengolahan Sampah,3962364918,85534711,94,Revisi
+590,2024,Mustika Jaya,Pendidikan,Perbaikan Jembatan,3267608127,4228303461,62,Revisi
+591,2018,Bekasi Utara,Pendidikan,Puskesmas Baru,3967576620,2404002266,24,Draft
+592,2019,Medan Satria,Kesehatan,Revitalisasi Pasar,3724330379,1191586458,90,Draft
+593,2022,Bekasi Barat,Ekonomi,Pengolahan Sampah,3245573646,64013832,97,Disetujui
+594,2023,Bekasi Timur,Lingkungan,Rehabilitasi Sekolah,342801432,4931782267,95,Draft
+595,2018,Jatisampurna,Ekonomi,Rehabilitasi Sekolah,1033351494,4648144573,65,Revisi
+596,2022,Rawalumbu,Infrastruktur,Pembangunan Jalan,2405916124,2589536454,71,Draft
+597,2020,Bantargebang,Ekonomi,Pembangunan Jalan,4679101224,170925981,27,Disetujui
+598,2021,Pondok Melati,Pendidikan,Drainase Lingkungan,3478444147,2517494228,97,Draft
+599,2018,Jatiasih,Kesehatan,Perbaikan Jembatan,808044387,4200044030,71,Disetujui
+600,2025,Medan Satria,Ekonomi,Pengolahan Sampah,3310260978,1056673042,1,Draft
+601,2025,Bekasi Barat,Pendidikan,Perbaikan Jembatan,901352423,2612327880,39,Draft
+602,2021,Medan Satria,Lingkungan,Penerangan Jalan,1178476218,1351160062,16,Revisi
+603,2025,Pondok Melati,Infrastruktur,Puskesmas Baru,1059342270,472070171,21,Disetujui
+604,2022,Pondok Gede,Kesehatan,Perbaikan Jembatan,4741090797,1354672322,4,Revisi
+605,2020,Jatisampurna,Lingkungan,Puskesmas Baru,3066278616,4301367680,47,Disetujui
+606,2023,Jatisampurna,Pendidikan,Pembangunan Jalan,2240977716,2647177781,46,Draft
+607,2018,Mustika Jaya,Kesehatan,Rehabilitasi Sekolah,4716226550,662851452,42,Revisi
+608,2020,Jatiasih,Pendidikan,Pembangunan Jalan,1611722273,732365265,7,Draft
+609,2019,Bekasi Utara,Pendidikan,Penerangan Jalan,4238682679,4292922899,54,Draft
+610,2025,Medan Satria,Pendidikan,Puskesmas Baru,2750248453,3719039315,50,Revisi
+611,2020,Bekasi Selatan,Pendidikan,Penerangan Jalan,3030925561,4139448123,44,Draft
+612,2019,Bekasi Timur,Infrastruktur,Pembangunan Jalan,514733483,2388755673,99,Disetujui
+613,2024,Rawalumbu,Pendidikan,Penerangan Jalan,3626078238,51886486,27,Draft
+614,2018,Mustika Jaya,Pendidikan,Puskesmas Baru,2843008730,1187024687,73,Revisi
+615,2021,Bekasi Selatan,Ekonomi,Pengolahan Sampah,4608707459,2407358896,28,Disetujui
+616,2019,Pondok Melati,Kesehatan,Revitalisasi Pasar,4398875040,4016437406,95,Revisi
+617,2023,Bekasi Timur,Pendidikan,Rehabilitasi Sekolah,1400916476,1115228942,51,Disetujui
+618,2025,Pondok Melati,Ekonomi,Pengolahan Sampah,2505825850,670630723,24,Draft
+619,2023,Rawalumbu,Lingkungan,Revitalisasi Pasar,1449516838,4507709089,40,Disetujui
+620,2018,Bekasi Utara,Ekonomi,Rehabilitasi Sekolah,170115097,1513034428,7,Draft
+621,2019,Bekasi Selatan,Infrastruktur,Drainase Lingkungan,82238861,127163454,84,Draft
+622,2019,Jatisampurna,Kesehatan,Puskesmas Baru,3417243968,95887414,81,Disetujui
+623,2023,Bantargebang,Lingkungan,Pembangunan Jalan,218012299,2672474083,21,Draft
+624,2025,Medan Satria,Kesehatan,Pengolahan Sampah,1533680966,3985123826,1,Revisi
+625,2024,Medan Satria,Pendidikan,Puskesmas Baru,3643270389,50906354,89,Disetujui
+626,2023,Mustika Jaya,Pendidikan,Pengolahan Sampah,4759117269,3047580800,4,Disetujui
+627,2023,Bekasi Utara,Ekonomi,Drainase Lingkungan,1805132757,4237522252,1,Disetujui
+628,2023,Bekasi Utara,Ekonomi,Perbaikan Jembatan,3276489549,4298299153,42,Disetujui
+629,2023,Bekasi Barat,Ekonomi,Perbaikan Jembatan,3734159824,1762402361,22,Disetujui
+630,2024,Pondok Gede,Infrastruktur,Perbaikan Jembatan,4576758363,3996368729,59,Disetujui
+631,2025,Mustika Jaya,Lingkungan,Pembangunan Jalan,2642681307,1422249858,26,Revisi
+632,2025,Bekasi Utara,Ekonomi,Rehabilitasi Sekolah,2520915410,1768280835,29,Revisi
+633,2022,Rawalumbu,Pendidikan,Revitalisasi Pasar,688316107,2531944955,61,Draft
+634,2019,Medan Satria,Pendidikan,Revitalisasi Pasar,2369336279,4129321704,100,Draft
+635,2022,Bekasi Barat,Ekonomi,Rehabilitasi Sekolah,1516150921,98406877,37,Draft
+636,2023,Bekasi Barat,Ekonomi,Penerangan Jalan,4061294093,4270903030,22,Disetujui
+637,2018,Pondok Melati,Pendidikan,Perbaikan Jembatan,4488822856,4701655990,56,Draft
+638,2019,Bekasi Selatan,Kesehatan,Puskesmas Baru,3028272754,4123189837,39,Draft
+639,2018,Medan Satria,Kesehatan,Penerangan Jalan,4343997426,4451493104,92,Disetujui
+640,2022,Bekasi Barat,Kesehatan,Pengolahan Sampah,3287841736,4029683682,49,Disetujui
+641,2022,Rawalumbu,Ekonomi,Drainase Lingkungan,1521708627,1929181764,27,Disetujui
+642,2021,Bekasi Timur,Kesehatan,Revitalisasi Pasar,4720115085,1226205383,56,Revisi
+643,2023,Pondok Gede,Pendidikan,Pembangunan Jalan,2811511866,1669005859,17,Revisi
+644,2018,Bekasi Barat,Kesehatan,Rehabilitasi Sekolah,3601295554,4941003253,61,Disetujui
+645,2019,Pondok Gede,Lingkungan,Revitalisasi Pasar,4604809296,850538896,21,Revisi
+646,2018,Bekasi Selatan,Infrastruktur,Revitalisasi Pasar,4368499381,3501190124,9,Disetujui
+647,2025,Bekasi Barat,Pendidikan,Rehabilitasi Sekolah,1710886621,4248604579,3,Revisi
+648,2021,Bekasi Utara,Kesehatan,Revitalisasi Pasar,3768731893,3730659284,2,Revisi
+649,2023,Bekasi Timur,Ekonomi,Penerangan Jalan,3203996995,799831791,36,Revisi
+650,2023,Jatiasih,Ekonomi,Puskesmas Baru,1242625844,4541479406,37,Disetujui
+651,2019,Bantargebang,Ekonomi,Pengolahan Sampah,1667307349,3759631418,78,Disetujui
+652,2023,Bekasi Utara,Ekonomi,Drainase Lingkungan,2973955855,2737142478,59,Disetujui
+653,2018,Mustika Jaya,Kesehatan,Pengolahan Sampah,2852484596,2166980722,68,Draft
+654,2022,Pondok Melati,Lingkungan,Penerangan Jalan,2596338208,2145588546,31,Revisi
+655,2018,Rawalumbu,Ekonomi,Revitalisasi Pasar,1874413495,2168984911,79,Revisi
+656,2019,Mustika Jaya,Infrastruktur,Puskesmas Baru,757456509,448252045,72,Draft
+657,2019,Bekasi Barat,Ekonomi,Pengolahan Sampah,432567303,3997877344,89,Draft
+658,2021,Jatiasih,Pendidikan,Pengolahan Sampah,1976155637,3411184019,21,Draft
+659,2022,Bantargebang,Lingkungan,Revitalisasi Pasar,1737233237,2070932288,9,Revisi
+660,2025,Pondok Gede,Infrastruktur,Perbaikan Jembatan,1378650444,4786334148,33,Revisi
+661,2018,Bekasi Utara,Pendidikan,Penerangan Jalan,1550234269,3418400603,22,Disetujui
+662,2025,Bekasi Timur,Kesehatan,Rehabilitasi Sekolah,2312845328,1642458906,5,Revisi
+663,2024,Jatisampurna,Pendidikan,Penerangan Jalan,1859806795,2309215634,66,Revisi
+664,2018,Jatisampurna,Lingkungan,Rehabilitasi Sekolah,4878553753,1848969264,34,Draft
+665,2023,Pondok Melati,Kesehatan,Penerangan Jalan,461843417,2906440643,72,Disetujui
+666,2019,Bekasi Utara,Lingkungan,Revitalisasi Pasar,2981778814,4274859552,5,Disetujui
+667,2022,Bekasi Barat,Pendidikan,Pengolahan Sampah,3352440029,3738992104,60,Revisi
+668,2020,Bantargebang,Kesehatan,Penerangan Jalan,817618182,210233061,33,Revisi
+669,2022,Bekasi Barat,Infrastruktur,Revitalisasi Pasar,1600519374,1595251005,66,Draft
+670,2022,Bekasi Timur,Infrastruktur,Perbaikan Jembatan,1033833812,668479686,11,Disetujui
+671,2019,Bantargebang,Pendidikan,Revitalisasi Pasar,1935290911,3359788386,87,Revisi
+672,2020,Bekasi Utara,Infrastruktur,Puskesmas Baru,1185137957,1124675745,90,Disetujui
+673,2025,Pondok Melati,Kesehatan,Perbaikan Jembatan,61105483,3543456271,31,Draft
+674,2024,Jatiasih,Kesehatan,Perbaikan Jembatan,3706135093,3766406927,3,Disetujui
+675,2023,Mustika Jaya,Ekonomi,Penerangan Jalan,2317858869,1641918107,77,Disetujui
+676,2019,Jatisampurna,Lingkungan,Penerangan Jalan,2834449359,2249222358,77,Disetujui
+677,2022,Bekasi Utara,Ekonomi,Rehabilitasi Sekolah,2336203809,80272562,70,Draft
+678,2019,Rawalumbu,Lingkungan,Pengolahan Sampah,2649548221,2118141378,29,Disetujui
+679,2018,Bantargebang,Pendidikan,Rehabilitasi Sekolah,1314544859,3578577756,52,Revisi
+680,2019,Bekasi Barat,Ekonomi,Rehabilitasi Sekolah,4321332954,1098426671,61,Disetujui
+681,2022,Bekasi Selatan,Lingkungan,Revitalisasi Pasar,2555729815,4626363547,31,Revisi
+682,2020,Jatiasih,Kesehatan,Pembangunan Jalan,3077237268,2275718120,87,Draft
+683,2018,Bekasi Barat,Lingkungan,Drainase Lingkungan,4397797392,4970775619,96,Disetujui
+684,2025,Medan Satria,Ekonomi,Penerangan Jalan,1026163263,2823978333,21,Revisi
+685,2020,Bekasi Utara,Lingkungan,Revitalisasi Pasar,3131826739,4335706239,91,Draft
+686,2024,Rawalumbu,Pendidikan,Perbaikan Jembatan,1572216745,91636995,94,Disetujui
+687,2023,Medan Satria,Lingkungan,Penerangan Jalan,4178690488,4844108471,55,Disetujui
+688,2023,Bekasi Barat,Infrastruktur,Penerangan Jalan,4179072918,3571947147,69,Draft
+689,2021,Rawalumbu,Pendidikan,Puskesmas Baru,3463581291,1751790776,50,Disetujui
+690,2018,Bekasi Barat,Ekonomi,Revitalisasi Pasar,4124213813,805218978,2,Disetujui
+691,2019,Bekasi Timur,Infrastruktur,Puskesmas Baru,4645495528,4612777324,86,Draft
+692,2022,Rawalumbu,Pendidikan,Rehabilitasi Sekolah,1594785073,2271207665,95,Disetujui
+693,2020,Medan Satria,Ekonomi,Perbaikan Jembatan,4944961652,1431912455,87,Disetujui
+694,2021,Bekasi Selatan,Ekonomi,Revitalisasi Pasar,3668683904,3997132256,82,Disetujui
+695,2019,Rawalumbu,Infrastruktur,Pengolahan Sampah,3008914694,4878116718,82,Revisi
+696,2020,Bekasi Timur,Infrastruktur,Perbaikan Jembatan,1062029944,4916824049,54,Disetujui
+697,2022,Bekasi Selatan,Ekonomi,Pengolahan Sampah,4486387159,2486471320,16,Draft
+698,2020,Mustika Jaya,Kesehatan,Puskesmas Baru,2228821042,948754309,59,Revisi
+699,2018,Jatiasih,Ekonomi,Perbaikan Jembatan,3610626488,4594659758,8,Disetujui
+700,2023,Mustika Jaya,Kesehatan,Pengolahan Sampah,3913849190,2745866596,93,Disetujui
+701,2025,Medan Satria,Ekonomi,Pengolahan Sampah,620411818,4292649292,51,Disetujui
+702,2022,Mustika Jaya,Kesehatan,Penerangan Jalan,1475452713,1352751993,24,Draft
+703,2023,Pondok Melati,Ekonomi,Revitalisasi Pasar,4345579415,915862597,73,Disetujui
+704,2018,Rawalumbu,Kesehatan,Revitalisasi Pasar,2693638255,4999529945,78,Revisi
+705,2024,Pondok Melati,Ekonomi,Penerangan Jalan,2269984600,2005284655,28,Revisi
+706,2022,Pondok Melati,Ekonomi,Drainase Lingkungan,115718997,4488684521,73,Revisi
+707,2018,Bekasi Utara,Lingkungan,Perbaikan Jembatan,665501579,3685813749,5,Draft
+708,2019,Jatiasih,Infrastruktur,Rehabilitasi Sekolah,2983541671,3456739863,42,Draft
+709,2025,Bekasi Selatan,Ekonomi,Perbaikan Jembatan,4344833998,4269849179,27,Draft
+710,2022,Pondok Gede,Infrastruktur,Revitalisasi Pasar,1947764686,3782754891,95,Revisi
+711,2019,Bekasi Utara,Pendidikan,Pembangunan Jalan,3005946951,2036957367,58,Revisi
+712,2025,Bantargebang,Lingkungan,Puskesmas Baru,1978316878,612956265,51,Disetujui
+713,2025,Jatiasih,Infrastruktur,Pengolahan Sampah,3084607769,3426174965,76,Disetujui
+714,2022,Jatiasih,Pendidikan,Penerangan Jalan,1016600896,1860553038,45,Revisi
+715,2019,Bekasi Selatan,Lingkungan,Rehabilitasi Sekolah,1292221908,723628912,29,Revisi
+716,2021,Medan Satria,Infrastruktur,Perbaikan Jembatan,2416344918,4068050811,97,Disetujui
+717,2023,Jatiasih,Infrastruktur,Pengolahan Sampah,4958769208,2752586169,8,Revisi
+718,2022,Medan Satria,Lingkungan,Pengolahan Sampah,3211616044,3940620609,28,Disetujui
+719,2019,Bekasi Selatan,Pendidikan,Puskesmas Baru,2802326855,85462579,78,Revisi
+720,2018,Jatisampurna,Lingkungan,Drainase Lingkungan,436577749,2712090971,22,Draft
+721,2025,Pondok Gede,Infrastruktur,Pembangunan Jalan,2316438798,4697099135,10,Revisi
+722,2021,Mustika Jaya,Pendidikan,Rehabilitasi Sekolah,4600828102,2680927927,35,Draft
+723,2019,Pondok Gede,Infrastruktur,Pembangunan Jalan,4027710434,3203331347,37,Draft
+724,2021,Jatisampurna,Kesehatan,Penerangan Jalan,3376377542,2699386671,43,Disetujui
+725,2020,Bekasi Barat,Lingkungan,Perbaikan Jembatan,195987330,4346367622,29,Disetujui
+726,2023,Pondok Gede,Pendidikan,Pengolahan Sampah,1731307041,923532697,20,Draft
+727,2024,Pondok Gede,Lingkungan,Pengolahan Sampah,2410096196,2734554203,94,Draft
+728,2021,Rawalumbu,Pendidikan,Perbaikan Jembatan,4405398463,2904800494,12,Disetujui
+729,2018,Pondok Melati,Pendidikan,Penerangan Jalan,652125465,1420201671,50,Disetujui
+730,2018,Bekasi Barat,Kesehatan,Perbaikan Jembatan,1520514370,3462029747,96,Disetujui
+731,2021,Jatisampurna,Infrastruktur,Penerangan Jalan,3389898244,863696089,18,Draft
+732,2018,Bekasi Timur,Infrastruktur,Puskesmas Baru,4693390736,4779648121,92,Draft
+733,2024,Bekasi Barat,Infrastruktur,Drainase Lingkungan,2165771201,837479357,93,Draft
+734,2022,Jatisampurna,Lingkungan,Penerangan Jalan,3022455608,1837405919,25,Disetujui
+735,2020,Jatiasih,Kesehatan,Drainase Lingkungan,1273057639,1475685645,23,Revisi
+736,2023,Bekasi Selatan,Pendidikan,Pengolahan Sampah,4959155200,1456144180,44,Revisi
+737,2020,Bekasi Barat,Lingkungan,Rehabilitasi Sekolah,4126570372,1950762663,23,Disetujui
+738,2025,Pondok Gede,Ekonomi,Drainase Lingkungan,87174407,471747789,29,Revisi
+739,2025,Mustika Jaya,Pendidikan,Rehabilitasi Sekolah,953140600,280294998,87,Revisi
+740,2021,Pondok Melati,Lingkungan,Pengolahan Sampah,1482989391,4881450707,100,Draft
+741,2021,Bekasi Utara,Lingkungan,Puskesmas Baru,3897179622,48299764,25,Revisi
+742,2019,Bekasi Barat,Pendidikan,Pengolahan Sampah,3645830204,2033915315,94,Revisi
+743,2019,Pondok Gede,Kesehatan,Pengolahan Sampah,2955947830,262287812,75,Disetujui
+744,2025,Jatiasih,Infrastruktur,Revitalisasi Pasar,4220418328,3352408684,32,Revisi
+745,2025,Bantargebang,Ekonomi,Penerangan Jalan,2986640944,3054409011,0,Revisi
+746,2021,Mustika Jaya,Pendidikan,Revitalisasi Pasar,1877438110,3500049432,85,Disetujui
+747,2025,Medan Satria,Infrastruktur,Drainase Lingkungan,4387760463,23273536,79,Disetujui
+748,2024,Rawalumbu,Infrastruktur,Pengolahan Sampah,2560016966,2466966846,30,Revisi
+749,2022,Jatiasih,Ekonomi,Puskesmas Baru,3617732012,32878892,36,Disetujui
+750,2023,Bekasi Selatan,Pendidikan,Pembangunan Jalan,1556100900,3884319970,6,Disetujui
+751,2019,Bekasi Timur,Kesehatan,Pembangunan Jalan,2848998514,1847158292,15,Disetujui
+752,2022,Pondok Melati,Kesehatan,Pembangunan Jalan,4484091507,2055371139,24,Draft
+753,2019,Mustika Jaya,Kesehatan,Rehabilitasi Sekolah,3479582807,1076497378,63,Draft
+754,2019,Jatisampurna,Infrastruktur,Perbaikan Jembatan,4014341989,3711409928,97,Disetujui
+755,2019,Pondok Melati,Infrastruktur,Penerangan Jalan,1028412099,3774482582,49,Revisi
+756,2024,Bekasi Barat,Ekonomi,Penerangan Jalan,2287018093,2295328787,42,Disetujui
+757,2021,Mustika Jaya,Lingkungan,Perbaikan Jembatan,2092741742,1878756684,2,Disetujui
+758,2022,Rawalumbu,Pendidikan,Penerangan Jalan,4372655754,3194070914,76,Disetujui
+759,2021,Bekasi Timur,Pendidikan,Drainase Lingkungan,1668956707,1768447506,23,Draft
+760,2018,Jatisampurna,Ekonomi,Drainase Lingkungan,1280822333,1267347696,51,Revisi
+761,2021,Bekasi Timur,Lingkungan,Perbaikan Jembatan,2979947808,1254547699,8,Revisi
+762,2020,Bekasi Timur,Infrastruktur,Puskesmas Baru,4486599116,3088376119,97,Draft
+763,2025,Rawalumbu,Lingkungan,Puskesmas Baru,4778548830,4600882612,31,Disetujui
+764,2021,Rawalumbu,Infrastruktur,Rehabilitasi Sekolah,1143552040,1527684853,70,Revisi
+765,2023,Mustika Jaya,Ekonomi,Revitalisasi Pasar,2689213399,3934839238,71,Disetujui
+766,2020,Bantargebang,Infrastruktur,Puskesmas Baru,310066668,3509797443,100,Revisi
+767,2021,Jatiasih,Infrastruktur,Rehabilitasi Sekolah,2519745765,2122765807,98,Draft
+768,2018,Bantargebang,Kesehatan,Perbaikan Jembatan,581913019,1317968565,37,Revisi
+769,2025,Bekasi Barat,Infrastruktur,Pembangunan Jalan,3126619545,2680439390,19,Disetujui
+770,2022,Mustika Jaya,Pendidikan,Puskesmas Baru,2075133745,4107454287,27,Draft
+771,2020,Bekasi Barat,Lingkungan,Revitalisasi Pasar,4289760767,2976444980,33,Revisi
+772,2020,Bekasi Barat,Lingkungan,Rehabilitasi Sekolah,1590822096,4738265162,47,Revisi
+773,2022,Pondok Melati,Pendidikan,Pembangunan Jalan,3858216920,2130132644,77,Draft
+774,2022,Pondok Melati,Kesehatan,Pengolahan Sampah,1553972617,3773569494,88,Revisi
+775,2020,Jatiasih,Infrastruktur,Puskesmas Baru,2761316938,3615698209,80,Disetujui
+776,2024,Jatiasih,Ekonomi,Drainase Lingkungan,589489274,3367799949,84,Disetujui
+777,2021,Bekasi Utara,Ekonomi,Pengolahan Sampah,1273900984,3736209792,95,Draft
+778,2025,Bekasi Utara,Kesehatan,Penerangan Jalan,2552248780,1561759095,3,Revisi
+779,2024,Rawalumbu,Kesehatan,Pembangunan Jalan,1396094170,4494125310,90,Revisi
+780,2019,Rawalumbu,Ekonomi,Pembangunan Jalan,3720760069,2272247214,16,Disetujui
+781,2019,Bekasi Barat,Pendidikan,Revitalisasi Pasar,58083193,4864999540,100,Draft
+782,2021,Bekasi Selatan,Lingkungan,Penerangan Jalan,279790044,1302481422,36,Draft
+783,2018,Mustika Jaya,Lingkungan,Pengolahan Sampah,807039544,3391704049,19,Draft
+784,2020,Jatisampurna,Infrastruktur,Penerangan Jalan,4275874162,3663356649,87,Revisi
+785,2021,Jatiasih,Lingkungan,Penerangan Jalan,2248953957,4037629937,44,Disetujui
+786,2019,Bekasi Barat,Ekonomi,Pembangunan Jalan,1066924028,1758564469,8,Revisi
+787,2024,Medan Satria,Lingkungan,Penerangan Jalan,2152881405,620162496,2,Disetujui
+788,2024,Jatisampurna,Kesehatan,Puskesmas Baru,4429595908,791684709,19,Disetujui
+789,2022,Jatiasih,Pendidikan,Pengolahan Sampah,1675377639,4972900844,46,Revisi
+790,2024,Jatisampurna,Lingkungan,Drainase Lingkungan,3335559470,2018094222,15,Draft
+791,2022,Jatisampurna,Kesehatan,Penerangan Jalan,3602445235,3720203719,41,Disetujui
+792,2018,Medan Satria,Kesehatan,Drainase Lingkungan,595904295,1132086005,9,Revisi
+793,2023,Rawalumbu,Lingkungan,Penerangan Jalan,726470635,3423140931,11,Disetujui
+794,2025,Bekasi Timur,Lingkungan,Puskesmas Baru,3242542356,2221923961,100,Disetujui
+795,2023,Bekasi Utara,Pendidikan,Pengolahan Sampah,1747473841,432724946,21,Disetujui
+796,2021,Bantargebang,Infrastruktur,Penerangan Jalan,1059651713,2501523752,51,Draft
+797,2020,Jatiasih,Infrastruktur,Drainase Lingkungan,3268711847,2161957174,44,Draft
+798,2022,Mustika Jaya,Kesehatan,Rehabilitasi Sekolah,2643229627,14028136,51,Draft
+799,2018,Rawalumbu,Ekonomi,Perbaikan Jembatan,3108448960,3869961782,79,Revisi
+800,2020,Pondok Melati,Kesehatan,Pengolahan Sampah,4607421454,1781825277,77,Revisi
+801,2022,Pondok Melati,Infrastruktur,Pengolahan Sampah,4076267832,2271538184,12,Draft
+802,2021,Pondok Melati,Kesehatan,Revitalisasi Pasar,3613954188,1122859942,98,Revisi
+803,2019,Mustika Jaya,Pendidikan,Puskesmas Baru,1780219764,51372132,27,Revisi
+804,2025,Bekasi Timur,Ekonomi,Rehabilitasi Sekolah,1626068578,4736384322,99,Revisi
+805,2023,Rawalumbu,Infrastruktur,Drainase Lingkungan,4524180696,2648791092,29,Disetujui
+806,2022,Mustika Jaya,Infrastruktur,Perbaikan Jembatan,4516706918,850621076,56,Disetujui
+807,2021,Pondok Gede,Lingkungan,Penerangan Jalan,3596877304,1780154860,75,Revisi
+808,2019,Bekasi Timur,Kesehatan,Penerangan Jalan,2371517042,3832060110,90,Disetujui
+809,2021,Pondok Melati,Kesehatan,Pengolahan Sampah,4309455441,4527770932,50,Draft
+810,2022,Jatisampurna,Infrastruktur,Revitalisasi Pasar,3709867942,827184930,66,Draft
+811,2024,Mustika Jaya,Lingkungan,Revitalisasi Pasar,4218299505,133267425,43,Disetujui
+812,2018,Jatisampurna,Ekonomi,Revitalisasi Pasar,2215026515,841703739,32,Disetujui
+813,2020,Bekasi Selatan,Lingkungan,Drainase Lingkungan,762744974,4472229968,45,Revisi
+814,2024,Bekasi Timur,Infrastruktur,Drainase Lingkungan,2976405896,1543045971,83,Revisi
+815,2022,Jatisampurna,Pendidikan,Revitalisasi Pasar,3742633231,4091595689,36,Draft
+816,2023,Rawalumbu,Pendidikan,Pengolahan Sampah,1683240005,3102712313,16,Revisi
+817,2024,Jatisampurna,Lingkungan,Pembangunan Jalan,828093909,1571999284,54,Disetujui
+818,2021,Pondok Melati,Ekonomi,Perbaikan Jembatan,4224702950,662966182,28,Revisi
+819,2019,Mustika Jaya,Lingkungan,Perbaikan Jembatan,2540426485,3417053855,85,Disetujui
+820,2023,Mustika Jaya,Infrastruktur,Penerangan Jalan,54433567,3375402680,39,Draft
+821,2019,Jatiasih,Pendidikan,Perbaikan Jembatan,2874557951,1803828316,25,Draft
+822,2024,Bantargebang,Ekonomi,Puskesmas Baru,1374938910,3441470615,44,Disetujui
+823,2019,Pondok Gede,Infrastruktur,Revitalisasi Pasar,866034500,2127436293,31,Revisi
+824,2024,Pondok Gede,Ekonomi,Puskesmas Baru,4678806410,646794640,7,Disetujui
+825,2025,Pondok Melati,Kesehatan,Pembangunan Jalan,3099174853,4357072983,28,Draft
+826,2021,Pondok Melati,Ekonomi,Drainase Lingkungan,4753935922,3664152076,89,Revisi
+827,2023,Bekasi Selatan,Pendidikan,Puskesmas Baru,3290813800,549123714,11,Disetujui
+828,2019,Bekasi Selatan,Lingkungan,Drainase Lingkungan,4631700015,109737246,15,Disetujui
+829,2019,Bekasi Timur,Ekonomi,Rehabilitasi Sekolah,1394688286,3843698381,81,Draft
+830,2022,Rawalumbu,Pendidikan,Pengolahan Sampah,3208230834,3259721969,30,Draft
+831,2020,Medan Satria,Kesehatan,Pengolahan Sampah,3204224104,86550937,45,Revisi
+832,2019,Bekasi Selatan,Lingkungan,Perbaikan Jembatan,1628145082,2515314882,98,Draft
+833,2023,Bantargebang,Kesehatan,Perbaikan Jembatan,4206366956,2053298419,0,Revisi
+834,2019,Bekasi Utara,Ekonomi,Penerangan Jalan,4390763894,1086566357,75,Draft
+835,2022,Bekasi Barat,Kesehatan,Perbaikan Jembatan,214975140,4189353111,65,Revisi
+836,2024,Mustika Jaya,Pendidikan,Puskesmas Baru,4230365175,4318278880,60,Draft
+837,2021,Bantargebang,Pendidikan,Perbaikan Jembatan,4644781826,189062918,10,Revisi
+838,2025,Bantargebang,Lingkungan,Rehabilitasi Sekolah,4903369097,3245722714,33,Revisi
+839,2023,Bekasi Utara,Kesehatan,Revitalisasi Pasar,3965159743,4259857944,94,Disetujui
+840,2022,Bekasi Selatan,Pendidikan,Rehabilitasi Sekolah,2124311068,4348701142,72,Draft
+841,2020,Bekasi Selatan,Kesehatan,Penerangan Jalan,431602959,1775347259,31,Disetujui
+842,2019,Rawalumbu,Kesehatan,Pengolahan Sampah,2326048362,3603845913,13,Draft
+843,2023,Pondok Gede,Lingkungan,Pengolahan Sampah,2089339521,2279615119,62,Revisi
+844,2020,Pondok Gede,Pendidikan,Revitalisasi Pasar,4142233976,118061547,64,Draft
+845,2018,Bekasi Utara,Lingkungan,Penerangan Jalan,2202762852,274267851,6,Draft
+846,2023,Rawalumbu,Kesehatan,Pengolahan Sampah,4125501346,2649889947,71,Revisi
+847,2022,Bekasi Selatan,Lingkungan,Rehabilitasi Sekolah,4713148343,3504046101,26,Revisi
+848,2024,Mustika Jaya,Lingkungan,Rehabilitasi Sekolah,190424355,3753319730,3,Revisi
+849,2020,Pondok Melati,Kesehatan,Pengolahan Sampah,538499725,3586903262,89,Revisi
+850,2019,Bekasi Selatan,Pendidikan,Puskesmas Baru,2034876894,4605766766,56,Revisi
+851,2023,Medan Satria,Kesehatan,Puskesmas Baru,4808215258,3653193946,36,Disetujui
+852,2024,Rawalumbu,Ekonomi,Pengolahan Sampah,687026339,1389618086,40,Disetujui
+853,2024,Bekasi Utara,Infrastruktur,Revitalisasi Pasar,1516619358,4439631928,46,Draft
+854,2024,Bekasi Utara,Kesehatan,Penerangan Jalan,4816604163,1974658013,61,Disetujui
+855,2022,Bekasi Utara,Infrastruktur,Rehabilitasi Sekolah,1016783109,4087284914,69,Disetujui
+856,2024,Bekasi Timur,Infrastruktur,Pembangunan Jalan,4559389332,2209325940,3,Draft
+857,2025,Jatiasih,Ekonomi,Pengolahan Sampah,1791560600,4340723227,25,Revisi
+858,2025,Bekasi Utara,Infrastruktur,Rehabilitasi Sekolah,3473497716,2360745619,5,Disetujui
+859,2023,Bekasi Utara,Pendidikan,Pembangunan Jalan,1741616374,4098680787,61,Disetujui
+860,2024,Rawalumbu,Lingkungan,Revitalisasi Pasar,3804365071,1542086935,45,Disetujui
+861,2022,Mustika Jaya,Infrastruktur,Drainase Lingkungan,956993691,4703694549,49,Draft
+862,2021,Bekasi Barat,Kesehatan,Rehabilitasi Sekolah,3071912401,1315178105,67,Draft
+863,2025,Bantargebang,Lingkungan,Pengolahan Sampah,3764434774,2245346988,12,Draft
+864,2021,Medan Satria,Kesehatan,Rehabilitasi Sekolah,854331176,3507605864,63,Disetujui
+865,2021,Bekasi Utara,Kesehatan,Pengolahan Sampah,4973751393,2772748083,77,Disetujui
+866,2020,Bekasi Barat,Kesehatan,Perbaikan Jembatan,4310789507,1117739993,96,Draft
+867,2018,Bantargebang,Infrastruktur,Puskesmas Baru,1900155607,3703395324,6,Revisi
+868,2022,Pondok Gede,Kesehatan,Rehabilitasi Sekolah,1261949423,3576253455,22,Revisi
+869,2022,Bekasi Barat,Kesehatan,Perbaikan Jembatan,3055046582,4445924185,69,Disetujui
+870,2022,Rawalumbu,Lingkungan,Pengolahan Sampah,241699913,4599020760,69,Revisi
+871,2022,Pondok Melati,Infrastruktur,Penerangan Jalan,2680550689,4839348153,88,Revisi
+872,2020,Bekasi Selatan,Lingkungan,Drainase Lingkungan,2046496387,129265287,32,Draft
+873,2019,Rawalumbu,Infrastruktur,Pengolahan Sampah,1059450239,4939011190,52,Draft
+874,2022,Medan Satria,Lingkungan,Pembangunan Jalan,330237973,4000153161,69,Disetujui
+875,2022,Bekasi Barat,Lingkungan,Pembangunan Jalan,2464911788,4439614100,76,Disetujui
+876,2019,Pondok Gede,Infrastruktur,Revitalisasi Pasar,419301713,1436891554,51,Revisi
+877,2025,Jatiasih,Lingkungan,Penerangan Jalan,958278850,4269011723,100,Revisi
+878,2024,Jatiasih,Pendidikan,Drainase Lingkungan,848347551,3532432989,20,Revisi
+879,2020,Bantargebang,Infrastruktur,Pembangunan Jalan,568153053,483774718,21,Draft
+880,2020,Pondok Melati,Infrastruktur,Revitalisasi Pasar,1336961568,383572395,86,Revisi
+881,2019,Medan Satria,Pendidikan,Puskesmas Baru,4635536908,4794223586,52,Revisi
+882,2020,Mustika Jaya,Lingkungan,Revitalisasi Pasar,3861899839,836186422,45,Disetujui
+883,2023,Jatisampurna,Lingkungan,Pembangunan Jalan,384430461,3397302639,79,Draft
+884,2024,Pondok Melati,Infrastruktur,Puskesmas Baru,1424053746,3988480056,96,Disetujui
+885,2020,Rawalumbu,Ekonomi,Rehabilitasi Sekolah,3508603552,511633811,26,Draft
+886,2018,Bekasi Utara,Ekonomi,Pengolahan Sampah,4625521417,1473985870,0,Revisi
+887,2025,Pondok Melati,Ekonomi,Penerangan Jalan,591478167,91618859,45,Disetujui
+888,2021,Bekasi Barat,Kesehatan,Revitalisasi Pasar,2455914143,3940437571,38,Draft
+889,2020,Jatisampurna,Pendidikan,Pembangunan Jalan,680255524,180081999,49,Revisi
+890,2024,Jatisampurna,Infrastruktur,Perbaikan Jembatan,1699974654,3068884927,73,Revisi
+891,2020,Pondok Gede,Infrastruktur,Puskesmas Baru,1497282096,4131187848,10,Disetujui
+892,2022,Bekasi Selatan,Lingkungan,Pembangunan Jalan,4496587900,3055864236,75,Disetujui
+893,2024,Pondok Gede,Infrastruktur,Puskesmas Baru,4822637183,1025577615,63,Draft
+894,2023,Bekasi Barat,Kesehatan,Pengolahan Sampah,637656278,4464518894,53,Draft
+895,2025,Medan Satria,Lingkungan,Puskesmas Baru,4707723160,2588417478,99,Disetujui
+896,2025,Bekasi Utara,Infrastruktur,Penerangan Jalan,4719075782,4132510043,24,Revisi
+897,2022,Medan Satria,Pendidikan,Puskesmas Baru,805993467,1129921710,64,Draft
+898,2020,Pondok Melati,Lingkungan,Penerangan Jalan,769428626,3127513957,45,Disetujui
+899,2022,Medan Satria,Ekonomi,Pembangunan Jalan,3546494608,3023292317,68,Revisi
+900,2021,Bekasi Barat,Infrastruktur,Penerangan Jalan,416718342,4951243728,84,Draft
+901,2021,Bekasi Selatan,Infrastruktur,Perbaikan Jembatan,564930343,3386993969,68,Disetujui
+902,2019,Bekasi Utara,Kesehatan,Rehabilitasi Sekolah,4832430425,3118836854,53,Revisi
+903,2023,Bekasi Timur,Lingkungan,Rehabilitasi Sekolah,466863158,809791163,78,Disetujui
+904,2022,Bekasi Barat,Ekonomi,Rehabilitasi Sekolah,2832426030,1370231935,41,Revisi
+905,2018,Jatisampurna,Lingkungan,Revitalisasi Pasar,3852903015,1616522004,26,Revisi
+906,2023,Pondok Gede,Pendidikan,Pengolahan Sampah,3094319014,3449563072,43,Draft
+907,2023,Bantargebang,Pendidikan,Rehabilitasi Sekolah,4068653493,1049893657,63,Disetujui
+908,2025,Bekasi Barat,Lingkungan,Puskesmas Baru,1370726361,4993430166,53,Disetujui
+909,2019,Bekasi Selatan,Infrastruktur,Rehabilitasi Sekolah,681162535,4915823936,32,Draft
+910,2019,Mustika Jaya,Ekonomi,Drainase Lingkungan,3877890503,739143677,32,Draft
+911,2019,Pondok Gede,Kesehatan,Drainase Lingkungan,3028299121,555445895,79,Disetujui
+912,2025,Bantargebang,Infrastruktur,Drainase Lingkungan,2524379420,998622258,6,Revisi
+913,2018,Bekasi Timur,Lingkungan,Perbaikan Jembatan,2778170063,1352329930,16,Revisi
+914,2025,Bekasi Timur,Lingkungan,Puskesmas Baru,3025642736,4013450002,29,Draft
+915,2023,Bekasi Barat,Pendidikan,Penerangan Jalan,3106962548,1911317043,9,Disetujui
+916,2020,Bekasi Selatan,Ekonomi,Drainase Lingkungan,1443094682,4806074822,43,Revisi
+917,2019,Medan Satria,Kesehatan,Revitalisasi Pasar,3600989615,1369718444,98,Disetujui
+918,2018,Pondok Melati,Kesehatan,Puskesmas Baru,1254922882,1222304383,3,Revisi
+919,2024,Jatiasih,Lingkungan,Penerangan Jalan,4972553534,4785083538,68,Disetujui
+920,2025,Bekasi Timur,Lingkungan,Rehabilitasi Sekolah,3306799594,2926298858,44,Revisi
+921,2019,Bekasi Barat,Kesehatan,Puskesmas Baru,1713640289,2519167928,70,Draft
+922,2024,Bekasi Selatan,Lingkungan,Rehabilitasi Sekolah,93994850,4741362223,25,Revisi
+923,2022,Jatiasih,Lingkungan,Penerangan Jalan,4515023369,1038271045,50,Draft
+924,2022,Bantargebang,Ekonomi,Pembangunan Jalan,4817413620,2864046585,47,Draft
+925,2018,Bantargebang,Pendidikan,Rehabilitasi Sekolah,2714174177,295180467,34,Draft
+926,2023,Bekasi Utara,Pendidikan,Perbaikan Jembatan,2497520512,4069913016,20,Disetujui
+927,2022,Medan Satria,Kesehatan,Penerangan Jalan,4862939469,667601470,96,Revisi
+928,2023,Jatiasih,Kesehatan,Drainase Lingkungan,2690879030,374757642,75,Draft
+929,2024,Bekasi Timur,Lingkungan,Drainase Lingkungan,3858308783,1205794276,2,Disetujui
+930,2020,Rawalumbu,Lingkungan,Rehabilitasi Sekolah,2553847097,1309609488,75,Draft
+931,2023,Jatiasih,Pendidikan,Revitalisasi Pasar,3285160341,2769666893,93,Disetujui
+932,2019,Bantargebang,Lingkungan,Drainase Lingkungan,3429371577,2788534929,70,Draft
+933,2020,Pondok Melati,Ekonomi,Rehabilitasi Sekolah,3444737185,1489369938,91,Disetujui
+934,2019,Bekasi Utara,Infrastruktur,Penerangan Jalan,255894058,4927751437,89,Draft
+935,2024,Bantargebang,Infrastruktur,Pengolahan Sampah,2056864758,1155047403,90,Disetujui
+936,2020,Pondok Melati,Ekonomi,Revitalisasi Pasar,4590901892,2135503717,49,Draft
+937,2018,Jatisampurna,Ekonomi,Perbaikan Jembatan,502426533,959878214,24,Draft
+938,2024,Bekasi Barat,Lingkungan,Perbaikan Jembatan,580021055,3602369290,38,Draft
+939,2018,Mustika Jaya,Lingkungan,Pengolahan Sampah,4133794902,476168920,83,Draft
+940,2022,Bekasi Barat,Ekonomi,Pembangunan Jalan,1930051149,636451851,55,Disetujui
+941,2019,Bekasi Selatan,Lingkungan,Revitalisasi Pasar,649487897,2701790324,13,Draft
+942,2019,Rawalumbu,Infrastruktur,Rehabilitasi Sekolah,2432516158,3946586764,52,Draft
+943,2021,Jatisampurna,Pendidikan,Pembangunan Jalan,971816079,4928003588,37,Revisi
+944,2024,Pondok Melati,Kesehatan,Penerangan Jalan,2084522531,4346581695,4,Draft
+945,2018,Jatisampurna,Pendidikan,Puskesmas Baru,986134190,4110390213,51,Draft
+946,2021,Bekasi Timur,Ekonomi,Penerangan Jalan,926915698,1539789532,13,Draft
+947,2024,Jatisampurna,Pendidikan,Revitalisasi Pasar,4104000121,1422191300,87,Draft
+948,2022,Jatisampurna,Ekonomi,Drainase Lingkungan,586734346,2066457020,8,Disetujui
+949,2025,Bantargebang,Ekonomi,Penerangan Jalan,296814483,3554745829,77,Disetujui
+950,2018,Rawalumbu,Lingkungan,Pembangunan Jalan,2728899048,920642689,38,Revisi
+951,2024,Bekasi Selatan,Lingkungan,Pengolahan Sampah,4658288908,2232052444,37,Revisi
+952,2021,Medan Satria,Lingkungan,Pengolahan Sampah,1479489591,3399113813,97,Draft
+953,2022,Bekasi Utara,Ekonomi,Perbaikan Jembatan,2123446361,387760291,15,Revisi
+954,2024,Pondok Melati,Ekonomi,Pembangunan Jalan,3673568986,3309404022,21,Disetujui
+955,2018,Pondok Gede,Infrastruktur,Puskesmas Baru,4730687319,856947492,43,Revisi
+956,2018,Bantargebang,Ekonomi,Penerangan Jalan,1898665320,2128698759,33,Draft
+957,2018,Jatiasih,Pendidikan,Pengolahan Sampah,1001343614,4713184945,99,Draft
+958,2025,Pondok Gede,Lingkungan,Pembangunan Jalan,4310522962,1800190497,39,Disetujui
+959,2019,Bekasi Barat,Pendidikan,Revitalisasi Pasar,1566838852,4788973679,37,Revisi
+960,2018,Rawalumbu,Infrastruktur,Perbaikan Jembatan,4727417773,4648130995,42,Revisi
+961,2018,Bekasi Utara,Kesehatan,Pengolahan Sampah,1354645335,4260395697,28,Revisi
+962,2024,Mustika Jaya,Ekonomi,Penerangan Jalan,2866332550,524688856,45,Revisi
+963,2021,Bekasi Barat,Lingkungan,Penerangan Jalan,3955575756,1116892557,23,Disetujui
+964,2022,Bekasi Utara,Kesehatan,Penerangan Jalan,1692633313,3458389717,59,Draft
+965,2021,Bantargebang,Ekonomi,Revitalisasi Pasar,1695753600,3670716402,29,Revisi
+966,2023,Mustika Jaya,Infrastruktur,Pengolahan Sampah,3728667410,1992717107,66,Disetujui
+967,2020,Medan Satria,Pendidikan,Perbaikan Jembatan,3225230620,4917179110,1,Draft
+968,2024,Bekasi Utara,Pendidikan,Perbaikan Jembatan,2780159336,3609053877,11,Revisi
+969,2021,Bekasi Timur,Pendidikan,Revitalisasi Pasar,3714689622,4778835172,49,Revisi
+970,2018,Bekasi Timur,Ekonomi,Pembangunan Jalan,4919799443,395277219,30,Disetujui
+971,2018,Bekasi Barat,Lingkungan,Rehabilitasi Sekolah,4663330290,565104581,11,Disetujui
+972,2024,Mustika Jaya,Infrastruktur,Pengolahan Sampah,3807290561,2584843312,46,Revisi
+973,2018,Medan Satria,Lingkungan,Puskesmas Baru,3759151574,3034815596,76,Disetujui
+974,2021,Jatisampurna,Ekonomi,Pembangunan Jalan,1863271678,1200470724,37,Draft
+975,2018,Bekasi Selatan,Lingkungan,Penerangan Jalan,1062250608,4372133391,65,Draft
+976,2018,Bekasi Timur,Pendidikan,Pembangunan Jalan,1325713268,891941778,84,Disetujui
+977,2018,Pondok Gede,Kesehatan,Pembangunan Jalan,2288844492,3111222390,53,Draft
+978,2020,Bekasi Utara,Lingkungan,Pembangunan Jalan,4850112859,1730188779,64,Revisi
+979,2019,Jatiasih,Ekonomi,Penerangan Jalan,451605965,4757132226,7,Revisi
+980,2023,Bekasi Barat,Infrastruktur,Rehabilitasi Sekolah,3149052774,1514617874,57,Revisi
+981,2018,Pondok Melati,Pendidikan,Puskesmas Baru,3774584046,1989635362,97,Disetujui
+982,2024,Bekasi Barat,Infrastruktur,Drainase Lingkungan,3062581003,4944519403,66,Revisi
+983,2025,Mustika Jaya,Ekonomi,Drainase Lingkungan,1234985747,1903856644,99,Revisi
+984,2022,Jatiasih,Lingkungan,Revitalisasi Pasar,1902079883,4752467306,42,Draft
+985,2025,Mustika Jaya,Ekonomi,Puskesmas Baru,2994525140,3110648009,26,Disetujui
+986,2018,Pondok Gede,Pendidikan,Pembangunan Jalan,2414584938,1158772219,88,Revisi
+987,2023,Mustika Jaya,Kesehatan,Pembangunan Jalan,3602939689,3279129021,71,Disetujui
+988,2021,Bekasi Barat,Pendidikan,Puskesmas Baru,3429593967,3225663149,98,Draft
+989,2022,Bantargebang,Infrastruktur,Rehabilitasi Sekolah,1335857766,744012075,53,Disetujui
+990,2022,Bekasi Barat,Ekonomi,Puskesmas Baru,647226969,3982048477,15,Revisi
+991,2022,Bekasi Barat,Infrastruktur,Puskesmas Baru,3878133447,4431594136,14,Disetujui
+992,2025,Bantargebang,Infrastruktur,Rehabilitasi Sekolah,2592332200,2595959119,68,Disetujui
+993,2019,Bekasi Selatan,Pendidikan,Revitalisasi Pasar,2860468418,4434555600,27,Disetujui
+994,2019,Rawalumbu,Ekonomi,Perbaikan Jembatan,1644761986,919164180,12,Revisi
+995,2022,Bekasi Selatan,Pendidikan,Penerangan Jalan,3462571942,4914130486,96,Draft
+996,2019,Jatisampurna,Ekonomi,Drainase Lingkungan,2976721495,1478466371,78,Disetujui
+997,2025,Jatisampurna,Ekonomi,Revitalisasi Pasar,2692265097,2642336032,59,Draft
+998,2020,Mustika Jaya,Pendidikan,Pengolahan Sampah,4466284086,4359108388,15,Revisi
+999,2025,Jatisampurna,Infrastruktur,Revitalisasi Pasar,346997065,4263832068,51,Draft
+1000,2018,Bekasi Utara,Kesehatan,Perbaikan Jembatan,1859329948,1336424021,62,Revisi
